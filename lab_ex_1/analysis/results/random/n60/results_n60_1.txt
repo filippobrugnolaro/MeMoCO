@@ -1,0 +1,11 @@
+N = 60
+Time: 6.68606 s
+Objval: 444
+Time: 6.79885 s
+Objval: 444
+Time: 6.92232 s
+Objval: 444
+Time: 6.99357 s
+Objval: 444
+Time: 6.91431 s
+Objval: 444

@@ -1,0 +1,5157 @@
+N = 120
+1 - Val: 10390
+2 - Val: 10076
+3 - Val: 9772
+4 - Val: 9480
+5 - Val: 9206
+6 - Val: 8936
+7 - Val: 8670
+8 - Val: 8404
+9 - Val: 8148
+10 - Val: 7894
+11 - Val: 7662
+12 - Val: 7428
+13 - Val: 7210
+14 - Val: 7010
+15 - Val: 6786
+16 - Val: 6586
+17 - Val: 6406
+18 - Val: 6208
+19 - Val: 6034
+20 - Val: 5862
+21 - Val: 5690
+22 - Val: 5524
+23 - Val: 5370
+24 - Val: 5216
+25 - Val: 5064
+26 - Val: 4900
+27 - Val: 4748
+28 - Val: 4602
+29 - Val: 4458
+30 - Val: 4342
+31 - Val: 4212
+32 - Val: 4098
+33 - Val: 3984
+34 - Val: 3874
+35 - Val: 3766
+36 - Val: 3668
+37 - Val: 3580
+38 - Val: 3482
+39 - Val: 3394
+40 - Val: 3290
+41 - Val: 3202
+42 - Val: 3136
+43 - Val: 3070
+44 - Val: 3008
+45 - Val: 2928
+46 - Val: 2866
+47 - Val: 2792
+48 - Val: 2712
+49 - Val: 2658
+50 - Val: 2604
+51 - Val: 2550
+52 - Val: 2490
+53 - Val: 2442
+54 - Val: 2400
+55 - Val: 2360
+56 - Val: 2322
+57 - Val: 2286
+58 - Val: 2250
+59 - Val: 2218
+60 - Val: 2188
+61 - Val: 2158
+62 - Val: 2132
+63 - Val: 2106
+64 - Val: 2080
+65 - Val: 2054
+66 - Val: 2030
+67 - Val: 2006
+68 - Val: 1982
+69 - Val: 1960
+70 - Val: 1930
+71 - Val: 1910
+72 - Val: 1888
+73 - Val: 1870
+74 - Val: 1852
+75 - Val: 1836
+76 - Val: 1808
+77 - Val: 1792
+78 - Val: 1776
+79 - Val: 1760
+80 - Val: 1746
+81 - Val: 1726
+82 - Val: 1708
+83 - Val: 1694
+84 - Val: 1682
+85 - Val: 1666
+86 - Val: 1654
+87 - Val: 1642
+88 - Val: 1632
+89 - Val: 1622
+90 - Val: 1588
+91 - Val: 1568
+92 - Val: 1558
+93 - Val: 1548
+94 - Val: 1538
+95 - Val: 1530
+96 - Val: 1522
+97 - Val: 1516
+98 - Val: 1502
+99 - Val: 1496
+100 - Val: 1490
+101 - Val: 1474
+102 - Val: 1460
+103 - Val: 1454
+104 - Val: 1448
+105 - Val: 1442
+106 - Val: 1436
+107 - Val: 1432
+108 - Val: 1428
+109 - Val: 1426
+110 - Val: 1412
+111 - Val: 1408
+112 - Val: 1406
+113 - Val: 1404
+114 - Val: 1402
+115 - Val: 1400
+Non-improving iter: 1
+116 - Val: 1400
+Non-improving iter: 2
+117 - Val: 1400
+Non-improving iter: 3
+118 - Val: 1400
+119 - Val: 1396
+Non-improving iter: 1
+120 - Val: 1396
+Non-improving iter: 2
+121 - Val: 1396
+Non-improving iter: 3
+122 - Val: 1396
+123 - Val: 1390
+124 - Val: 1388
+125 - Val: 1354
+Non-improving iter: 1
+126 - Val: 1354
+127 - Val: 1350
+Non-improving iter: 1
+128 - Val: 1350
+Non-improving iter: 2
+129 - Val: 1350
+Non-improving iter: 3
+130 - Val: 1350
+Non-improving iter: 4
+131 - Val: 1350
+Non-improving iter: 5
+132 - Val: 1350
+Non-improving iter: 6
+133 - Val: 1350
+Non-improving iter: 7
+134 - Val: 1350
+Non-improving iter: 8
+135 - Val: 1350
+Non-improving iter: 9
+136 - Val: 1350
+Non-improving iter: 10
+137 - Val: 1350
+Non-improving iter: 11
+138 - Val: 1350
+Non-improving iter: 12
+139 - Val: 1350
+Non-improving iter: 13
+140 - Val: 1350
+Non-improving iter: 14
+141 - Val: 1350
+Non-improving iter: 15
+142 - Val: 1350
+Non-improving iter: 16
+143 - Val: 1350
+Non-improving iter: 17
+144 - Val: 1350
+Non-improving iter: 18
+145 - Val: 1350
+Non-improving iter: 19
+146 - Val: 1350
+Non-improving iter: 20
+147 - Val: 1350
+Non-improving iter: 21
+148 - Val: 1350
+Non-improving iter: 22
+149 - Val: 1350
+Non-improving iter: 23
+150 - Val: 1350
+Non-improving iter: 24
+151 - Val: 1350
+Non-improving iter: 25
+152 - Val: 1350
+Non-improving iter: 26
+153 - Val: 1350
+Non-improving iter: 27
+154 - Val: 1350
+Non-improving iter: 28
+155 - Val: 1350
+Non-improving iter: 29
+156 - Val: 1350
+Non-improving iter: 30
+157 - Val: 1350
+Non-improving iter: 31
+158 - Val: 1350
+Non-improving iter: 32
+159 - Val: 1350
+Non-improving iter: 33
+160 - Val: 1350
+Non-improving iter: 34
+161 - Val: 1350
+Non-improving iter: 35
+162 - Val: 1350
+Non-improving iter: 36
+163 - Val: 1350
+Non-improving iter: 37
+164 - Val: 1350
+Non-improving iter: 38
+165 - Val: 1350
+Non-improving iter: 39
+166 - Val: 1350
+Non-improving iter: 40
+167 - Val: 1350
+Non-improving iter: 41
+168 - Val: 1350
+Non-improving iter: 42
+169 - Val: 1350
+Non-improving iter: 43
+170 - Val: 1350
+Non-improving iter: 44
+171 - Val: 1350
+Non-improving iter: 45
+172 - Val: 1350
+Non-improving iter: 46
+173 - Val: 1350
+Non-improving iter: 47
+174 - Val: 1350
+Non-improving iter: 48
+175 - Val: 1350
+Non-improving iter: 49
+176 - Val: 1350
+Non-improving iter: 50
+177 - Val: 1350
+Non-improving iter: 51
+178 - Val: 1350
+Non-improving iter: 52
+179 - Val: 1350
+Non-improving iter: 53
+180 - Val: 1350
+181 - Val: 1348
+182 - Val: 1344
+183 - Val: 1340
+184 - Val: 1336
+185 - Val: 1332
+186 - Val: 1328
+187 - Val: 1326
+188 - Val: 1324
+189 - Val: 1322
+Non-improving iter: 1
+190 - Val: 1322
+Non-improving iter: 2
+191 - Val: 1322
+Non-improving iter: 3
+192 - Val: 1322
+Non-improving iter: 4
+193 - Val: 1322
+Non-improving iter: 5
+194 - Val: 1322
+Non-improving iter: 6
+195 - Val: 1322
+Non-improving iter: 7
+196 - Val: 1322
+Non-improving iter: 8
+197 - Val: 1322
+Non-improving iter: 9
+198 - Val: 1322
+Non-improving iter: 10
+199 - Val: 1322
+Non-improving iter: 11
+200 - Val: 1322
+Non-improving iter: 12
+201 - Val: 1322
+Non-improving iter: 13
+202 - Val: 1322
+Non-improving iter: 14
+203 - Val: 1322
+Non-improving iter: 15
+204 - Val: 1322
+Non-improving iter: 16
+205 - Val: 1322
+Non-improving iter: 17
+206 - Val: 1322
+Non-improving iter: 18
+207 - Val: 1322
+Non-improving iter: 19
+208 - Val: 1322
+Non-improving iter: 20
+209 - Val: 1322
+Non-improving iter: 21
+210 - Val: 1322
+Non-improving iter: 22
+211 - Val: 1322
+Non-improving iter: 23
+212 - Val: 1322
+Non-improving iter: 24
+213 - Val: 1322
+Non-improving iter: 25
+214 - Val: 1322
+Non-improving iter: 26
+215 - Val: 1322
+Non-improving iter: 27
+216 - Val: 1322
+Non-improving iter: 28
+217 - Val: 1322
+Non-improving iter: 29
+218 - Val: 1322
+Non-improving iter: 30
+219 - Val: 1322
+Non-improving iter: 31
+220 - Val: 1322
+Non-improving iter: 32
+221 - Val: 1322
+Non-improving iter: 33
+222 - Val: 1322
+Non-improving iter: 34
+223 - Val: 1322
+Non-improving iter: 35
+224 - Val: 1322
+Non-improving iter: 36
+225 - Val: 1322
+Non-improving iter: 37
+226 - Val: 1322
+Non-improving iter: 38
+227 - Val: 1322
+Non-improving iter: 39
+228 - Val: 1322
+Non-improving iter: 40
+229 - Val: 1322
+Non-improving iter: 41
+230 - Val: 1322
+Non-improving iter: 42
+231 - Val: 1322
+Non-improving iter: 43
+232 - Val: 1322
+Non-improving iter: 44
+233 - Val: 1322
+Non-improving iter: 45
+234 - Val: 1322
+Non-improving iter: 46
+235 - Val: 1322
+Non-improving iter: 47
+236 - Val: 1322
+Non-improving iter: 48
+237 - Val: 1322
+Non-improving iter: 49
+238 - Val: 1322
+Non-improving iter: 50
+239 - Val: 1322
+Non-improving iter: 51
+240 - Val: 1322
+Non-improving iter: 52
+241 - Val: 1322
+Non-improving iter: 53
+242 - Val: 1322
+Non-improving iter: 54
+243 - Val: 1322
+Non-improving iter: 55
+244 - Val: 1322
+Non-improving iter: 56
+245 - Val: 1322
+Non-improving iter: 57
+246 - Val: 1322
+Non-improving iter: 58
+247 - Val: 1322
+Non-improving iter: 59
+248 - Val: 1322
+Non-improving iter: 60
+249 - Val: 1322
+Non-improving iter: 61
+250 - Val: 1322
+Non-improving iter: 62
+251 - Val: 1322
+Non-improving iter: 63
+252 - Val: 1322
+Non-improving iter: 64
+253 - Val: 1322
+Non-improving iter: 65
+254 - Val: 1322
+Non-improving iter: 66
+255 - Val: 1322
+Non-improving iter: 67
+256 - Val: 1322
+Non-improving iter: 68
+257 - Val: 1322
+Non-improving iter: 69
+258 - Val: 1322
+Non-improving iter: 70
+259 - Val: 1322
+Non-improving iter: 71
+260 - Val: 1322
+Non-improving iter: 72
+261 - Val: 1322
+Non-improving iter: 73
+262 - Val: 1322
+Non-improving iter: 74
+263 - Val: 1322
+Non-improving iter: 75
+264 - Val: 1322
+Non-improving iter: 76
+265 - Val: 1322
+Non-improving iter: 77
+266 - Val: 1322
+Non-improving iter: 78
+267 - Val: 1322
+Non-improving iter: 79
+268 - Val: 1322
+Non-improving iter: 80
+269 - Val: 1322
+Non-improving iter: 81
+270 - Val: 1322
+Non-improving iter: 82
+271 - Val: 1322
+Non-improving iter: 83
+272 - Val: 1322
+Non-improving iter: 84
+273 - Val: 1322
+Non-improving iter: 85
+274 - Val: 1322
+Non-improving iter: 86
+275 - Val: 1322
+Non-improving iter: 87
+276 - Val: 1322
+Non-improving iter: 88
+277 - Val: 1322
+Non-improving iter: 89
+278 - Val: 1322
+Non-improving iter: 90
+279 - Val: 1322
+Non-improving iter: 91
+280 - Val: 1322
+Non-improving iter: 92
+281 - Val: 1322
+Non-improving iter: 93
+282 - Val: 1322
+Non-improving iter: 94
+283 - Val: 1322
+Non-improving iter: 95
+284 - Val: 1322
+Non-improving iter: 96
+285 - Val: 1322
+Non-improving iter: 97
+286 - Val: 1322
+Non-improving iter: 98
+287 - Val: 1322
+Non-improving iter: 99
+288 - Val: 1322
+Non-improving iter: 100
+289 - Val: 1322
+Non-improving iter: 101
+290 - Val: 1322
+Non-improving iter: 102
+291 - Val: 1322
+Non-improving iter: 103
+292 - Val: 1322
+Non-improving iter: 104
+293 - Val: 1322
+Non-improving iter: 105
+294 - Val: 1322
+Non-improving iter: 106
+295 - Val: 1322
+Non-improving iter: 107
+296 - Val: 1322
+Non-improving iter: 108
+297 - Val: 1322
+Non-improving iter: 109
+298 - Val: 1322
+Non-improving iter: 110
+299 - Val: 1322
+Non-improving iter: 111
+300 - Val: 1322
+Non-improving iter: 112
+301 - Val: 1322
+Non-improving iter: 113
+302 - Val: 1322
+Non-improving iter: 114
+303 - Val: 1322
+Non-improving iter: 115
+304 - Val: 1322
+Non-improving iter: 116
+305 - Val: 1322
+Non-improving iter: 117
+306 - Val: 1322
+Non-improving iter: 118
+307 - Val: 1322
+Non-improving iter: 119
+308 - Val: 1322
+Non-improving iter: 120
+FROM: 10390
+TO  : 1322
+Time: 39.5904 s
+1 - Val: 10018
+2 - Val: 9630
+3 - Val: 9336
+4 - Val: 9052
+5 - Val: 8790
+6 - Val: 8532
+7 - Val: 8252
+8 - Val: 8042
+9 - Val: 7818
+10 - Val: 7610
+11 - Val: 7396
+12 - Val: 7200
+13 - Val: 7010
+14 - Val: 6824
+15 - Val: 6652
+16 - Val: 6466
+17 - Val: 6294
+18 - Val: 6124
+19 - Val: 5960
+20 - Val: 5802
+21 - Val: 5652
+22 - Val: 5504
+23 - Val: 5360
+24 - Val: 5224
+25 - Val: 5090
+26 - Val: 4964
+27 - Val: 4830
+28 - Val: 4706
+29 - Val: 4596
+30 - Val: 4474
+31 - Val: 4356
+32 - Val: 4236
+33 - Val: 4132
+34 - Val: 4030
+35 - Val: 3936
+36 - Val: 3846
+37 - Val: 3760
+38 - Val: 3672
+39 - Val: 3584
+40 - Val: 3500
+41 - Val: 3410
+42 - Val: 3334
+43 - Val: 3260
+44 - Val: 3198
+45 - Val: 3128
+46 - Val: 3064
+47 - Val: 3002
+48 - Val: 2948
+49 - Val: 2896
+50 - Val: 2846
+51 - Val: 2798
+52 - Val: 2752
+53 - Val: 2710
+54 - Val: 2670
+55 - Val: 2632
+56 - Val: 2596
+57 - Val: 2562
+58 - Val: 2528
+59 - Val: 2496
+60 - Val: 2464
+61 - Val: 2434
+62 - Val: 2408
+63 - Val: 2382
+64 - Val: 2342
+65 - Val: 2310
+66 - Val: 2286
+67 - Val: 2262
+68 - Val: 2226
+69 - Val: 2202
+70 - Val: 2178
+71 - Val: 2154
+72 - Val: 2132
+73 - Val: 2110
+74 - Val: 2074
+75 - Val: 2052
+76 - Val: 2028
+77 - Val: 1980
+78 - Val: 1960
+79 - Val: 1940
+80 - Val: 1920
+81 - Val: 1900
+82 - Val: 1880
+83 - Val: 1862
+84 - Val: 1844
+85 - Val: 1818
+86 - Val: 1802
+87 - Val: 1784
+88 - Val: 1768
+89 - Val: 1752
+90 - Val: 1736
+91 - Val: 1722
+92 - Val: 1708
+93 - Val: 1694
+94 - Val: 1680
+95 - Val: 1668
+96 - Val: 1656
+97 - Val: 1632
+98 - Val: 1620
+99 - Val: 1608
+100 - Val: 1596
+101 - Val: 1584
+102 - Val: 1572
+103 - Val: 1560
+104 - Val: 1548
+105 - Val: 1538
+106 - Val: 1522
+107 - Val: 1510
+108 - Val: 1500
+109 - Val: 1490
+110 - Val: 1480
+111 - Val: 1472
+112 - Val: 1464
+113 - Val: 1456
+114 - Val: 1448
+115 - Val: 1440
+116 - Val: 1434
+117 - Val: 1428
+118 - Val: 1422
+119 - Val: 1416
+120 - Val: 1412
+121 - Val: 1408
+122 - Val: 1406
+123 - Val: 1404
+Non-improving iter: 1
+124 - Val: 1404
+Non-improving iter: 2
+125 - Val: 1404
+Non-improving iter: 3
+126 - Val: 1404
+Non-improving iter: 4
+127 - Val: 1404
+Non-improving iter: 5
+128 - Val: 1404
+Non-improving iter: 6
+129 - Val: 1404
+Non-improving iter: 7
+130 - Val: 1404
+131 - Val: 1400
+Non-improving iter: 1
+132 - Val: 1400
+133 - Val: 1398
+Non-improving iter: 1
+134 - Val: 1398
+Non-improving iter: 2
+135 - Val: 1398
+Non-improving iter: 3
+136 - Val: 1398
+Non-improving iter: 4
+137 - Val: 1398
+Non-improving iter: 5
+138 - Val: 1398
+Non-improving iter: 6
+139 - Val: 1398
+Non-improving iter: 7
+140 - Val: 1398
+Non-improving iter: 8
+141 - Val: 1398
+Non-improving iter: 9
+142 - Val: 1398
+Non-improving iter: 10
+143 - Val: 1398
+Non-improving iter: 11
+144 - Val: 1398
+Non-improving iter: 12
+145 - Val: 1398
+Non-improving iter: 13
+146 - Val: 1398
+Non-improving iter: 14
+147 - Val: 1398
+Non-improving iter: 15
+148 - Val: 1398
+Non-improving iter: 16
+149 - Val: 1398
+Non-improving iter: 17
+150 - Val: 1398
+Non-improving iter: 18
+151 - Val: 1398
+Non-improving iter: 19
+152 - Val: 1398
+Non-improving iter: 20
+153 - Val: 1398
+Non-improving iter: 21
+154 - Val: 1398
+Non-improving iter: 22
+155 - Val: 1398
+Non-improving iter: 23
+156 - Val: 1398
+Non-improving iter: 24
+157 - Val: 1398
+Non-improving iter: 25
+158 - Val: 1398
+Non-improving iter: 26
+159 - Val: 1398
+160 - Val: 1392
+161 - Val: 1388
+162 - Val: 1386
+163 - Val: 1384
+164 - Val: 1382
+165 - Val: 1380
+166 - Val: 1378
+167 - Val: 1376
+168 - Val: 1374
+169 - Val: 1372
+170 - Val: 1370
+171 - Val: 1368
+Non-improving iter: 1
+172 - Val: 1368
+Non-improving iter: 2
+173 - Val: 1368
+174 - Val: 1366
+Non-improving iter: 1
+175 - Val: 1366
+Non-improving iter: 2
+176 - Val: 1366
+Non-improving iter: 3
+177 - Val: 1366
+Non-improving iter: 4
+178 - Val: 1366
+Non-improving iter: 5
+179 - Val: 1366
+Non-improving iter: 6
+180 - Val: 1366
+Non-improving iter: 7
+181 - Val: 1366
+Non-improving iter: 8
+182 - Val: 1366
+Non-improving iter: 9
+183 - Val: 1366
+Non-improving iter: 10
+184 - Val: 1366
+185 - Val: 1364
+186 - Val: 1362
+Non-improving iter: 1
+187 - Val: 1362
+Non-improving iter: 2
+188 - Val: 1362
+Non-improving iter: 3
+189 - Val: 1362
+Non-improving iter: 4
+190 - Val: 1362
+Non-improving iter: 5
+191 - Val: 1362
+Non-improving iter: 6
+192 - Val: 1362
+Non-improving iter: 7
+193 - Val: 1362
+Non-improving iter: 8
+194 - Val: 1362
+Non-improving iter: 9
+195 - Val: 1362
+Non-improving iter: 10
+196 - Val: 1362
+Non-improving iter: 11
+197 - Val: 1362
+Non-improving iter: 12
+198 - Val: 1362
+Non-improving iter: 13
+199 - Val: 1362
+Non-improving iter: 14
+200 - Val: 1362
+Non-improving iter: 15
+201 - Val: 1362
+Non-improving iter: 16
+202 - Val: 1362
+Non-improving iter: 17
+203 - Val: 1362
+Non-improving iter: 18
+204 - Val: 1362
+Non-improving iter: 19
+205 - Val: 1362
+Non-improving iter: 20
+206 - Val: 1362
+Non-improving iter: 21
+207 - Val: 1362
+Non-improving iter: 22
+208 - Val: 1362
+Non-improving iter: 23
+209 - Val: 1362
+Non-improving iter: 24
+210 - Val: 1362
+Non-improving iter: 25
+211 - Val: 1362
+Non-improving iter: 26
+212 - Val: 1362
+Non-improving iter: 27
+213 - Val: 1362
+Non-improving iter: 28
+214 - Val: 1362
+Non-improving iter: 29
+215 - Val: 1362
+Non-improving iter: 30
+216 - Val: 1362
+Non-improving iter: 31
+217 - Val: 1362
+Non-improving iter: 32
+218 - Val: 1362
+Non-improving iter: 33
+219 - Val: 1362
+Non-improving iter: 34
+220 - Val: 1362
+Non-improving iter: 35
+221 - Val: 1362
+Non-improving iter: 36
+222 - Val: 1362
+Non-improving iter: 37
+223 - Val: 1362
+Non-improving iter: 38
+224 - Val: 1362
+Non-improving iter: 39
+225 - Val: 1362
+Non-improving iter: 40
+226 - Val: 1362
+Non-improving iter: 41
+227 - Val: 1362
+Non-improving iter: 42
+228 - Val: 1362
+Non-improving iter: 43
+229 - Val: 1362
+Non-improving iter: 44
+230 - Val: 1362
+Non-improving iter: 45
+231 - Val: 1362
+Non-improving iter: 46
+232 - Val: 1362
+Non-improving iter: 47
+233 - Val: 1362
+Non-improving iter: 48
+234 - Val: 1362
+Non-improving iter: 49
+235 - Val: 1362
+Non-improving iter: 50
+236 - Val: 1362
+Non-improving iter: 51
+237 - Val: 1362
+Non-improving iter: 52
+238 - Val: 1362
+Non-improving iter: 53
+239 - Val: 1362
+240 - Val: 1360
+241 - Val: 1358
+242 - Val: 1356
+Non-improving iter: 1
+243 - Val: 1356
+244 - Val: 1354
+Non-improving iter: 1
+245 - Val: 1354
+246 - Val: 1338
+247 - Val: 1330
+248 - Val: 1328
+Non-improving iter: 1
+249 - Val: 1328
+250 - Val: 1326
+Non-improving iter: 1
+251 - Val: 1326
+Non-improving iter: 2
+252 - Val: 1326
+Non-improving iter: 3
+253 - Val: 1326
+Non-improving iter: 4
+254 - Val: 1326
+Non-improving iter: 5
+255 - Val: 1326
+Non-improving iter: 6
+256 - Val: 1326
+Non-improving iter: 7
+257 - Val: 1326
+Non-improving iter: 8
+258 - Val: 1326
+Non-improving iter: 9
+259 - Val: 1326
+Non-improving iter: 10
+260 - Val: 1326
+Non-improving iter: 11
+261 - Val: 1326
+Non-improving iter: 12
+262 - Val: 1326
+Non-improving iter: 13
+263 - Val: 1326
+Non-improving iter: 14
+264 - Val: 1326
+Non-improving iter: 15
+265 - Val: 1326
+Non-improving iter: 16
+266 - Val: 1326
+Non-improving iter: 17
+267 - Val: 1326
+Non-improving iter: 18
+268 - Val: 1326
+Non-improving iter: 19
+269 - Val: 1326
+Non-improving iter: 20
+270 - Val: 1326
+Non-improving iter: 21
+271 - Val: 1326
+Non-improving iter: 22
+272 - Val: 1326
+Non-improving iter: 23
+273 - Val: 1326
+Non-improving iter: 24
+274 - Val: 1326
+Non-improving iter: 25
+275 - Val: 1326
+Non-improving iter: 26
+276 - Val: 1326
+Non-improving iter: 27
+277 - Val: 1326
+Non-improving iter: 28
+278 - Val: 1326
+Non-improving iter: 29
+279 - Val: 1326
+Non-improving iter: 30
+280 - Val: 1326
+Non-improving iter: 31
+281 - Val: 1326
+Non-improving iter: 32
+282 - Val: 1326
+Non-improving iter: 33
+283 - Val: 1326
+Non-improving iter: 34
+284 - Val: 1326
+Non-improving iter: 35
+285 - Val: 1326
+Non-improving iter: 36
+286 - Val: 1326
+Non-improving iter: 37
+287 - Val: 1326
+Non-improving iter: 38
+288 - Val: 1326
+Non-improving iter: 39
+289 - Val: 1326
+Non-improving iter: 40
+290 - Val: 1326
+Non-improving iter: 41
+291 - Val: 1326
+Non-improving iter: 42
+292 - Val: 1326
+Non-improving iter: 43
+293 - Val: 1326
+Non-improving iter: 44
+294 - Val: 1326
+Non-improving iter: 45
+295 - Val: 1326
+Non-improving iter: 46
+296 - Val: 1326
+Non-improving iter: 47
+297 - Val: 1326
+Non-improving iter: 48
+298 - Val: 1326
+Non-improving iter: 49
+299 - Val: 1326
+Non-improving iter: 50
+300 - Val: 1326
+Non-improving iter: 51
+301 - Val: 1326
+Non-improving iter: 52
+302 - Val: 1326
+Non-improving iter: 53
+303 - Val: 1326
+Non-improving iter: 54
+304 - Val: 1326
+Non-improving iter: 55
+305 - Val: 1326
+Non-improving iter: 56
+306 - Val: 1326
+Non-improving iter: 57
+307 - Val: 1326
+Non-improving iter: 58
+308 - Val: 1326
+Non-improving iter: 59
+309 - Val: 1326
+Non-improving iter: 60
+310 - Val: 1326
+Non-improving iter: 61
+311 - Val: 1326
+Non-improving iter: 62
+312 - Val: 1326
+Non-improving iter: 63
+313 - Val: 1326
+Non-improving iter: 64
+314 - Val: 1326
+Non-improving iter: 65
+315 - Val: 1326
+Non-improving iter: 66
+316 - Val: 1326
+Non-improving iter: 67
+317 - Val: 1326
+Non-improving iter: 68
+318 - Val: 1326
+Non-improving iter: 69
+319 - Val: 1326
+Non-improving iter: 70
+320 - Val: 1326
+Non-improving iter: 71
+321 - Val: 1326
+Non-improving iter: 72
+322 - Val: 1326
+Non-improving iter: 73
+323 - Val: 1326
+Non-improving iter: 74
+324 - Val: 1326
+Non-improving iter: 75
+325 - Val: 1326
+Non-improving iter: 76
+326 - Val: 1326
+Non-improving iter: 77
+327 - Val: 1326
+Non-improving iter: 78
+328 - Val: 1326
+Non-improving iter: 79
+329 - Val: 1326
+Non-improving iter: 80
+330 - Val: 1326
+Non-improving iter: 81
+331 - Val: 1326
+Non-improving iter: 82
+332 - Val: 1326
+Non-improving iter: 83
+333 - Val: 1326
+Non-improving iter: 84
+334 - Val: 1326
+Non-improving iter: 85
+335 - Val: 1326
+Non-improving iter: 86
+336 - Val: 1326
+Non-improving iter: 87
+337 - Val: 1326
+Non-improving iter: 88
+338 - Val: 1326
+Non-improving iter: 89
+339 - Val: 1326
+Non-improving iter: 90
+340 - Val: 1326
+Non-improving iter: 91
+341 - Val: 1326
+Non-improving iter: 92
+342 - Val: 1326
+Non-improving iter: 93
+343 - Val: 1326
+Non-improving iter: 94
+344 - Val: 1326
+Non-improving iter: 95
+345 - Val: 1326
+Non-improving iter: 96
+346 - Val: 1326
+Non-improving iter: 97
+347 - Val: 1326
+Non-improving iter: 98
+348 - Val: 1326
+Non-improving iter: 99
+349 - Val: 1326
+Non-improving iter: 100
+350 - Val: 1326
+Non-improving iter: 101
+351 - Val: 1326
+Non-improving iter: 102
+352 - Val: 1326
+Non-improving iter: 103
+353 - Val: 1326
+Non-improving iter: 104
+354 - Val: 1326
+Non-improving iter: 105
+355 - Val: 1326
+Non-improving iter: 106
+356 - Val: 1326
+Non-improving iter: 107
+357 - Val: 1326
+Non-improving iter: 108
+358 - Val: 1326
+Non-improving iter: 109
+359 - Val: 1326
+Non-improving iter: 110
+360 - Val: 1326
+Non-improving iter: 111
+361 - Val: 1326
+Non-improving iter: 112
+362 - Val: 1326
+Non-improving iter: 113
+363 - Val: 1326
+Non-improving iter: 114
+364 - Val: 1326
+Non-improving iter: 115
+365 - Val: 1326
+Non-improving iter: 116
+366 - Val: 1326
+Non-improving iter: 117
+367 - Val: 1326
+Non-improving iter: 118
+368 - Val: 1326
+Non-improving iter: 119
+369 - Val: 1326
+Non-improving iter: 120
+FROM: 10018
+TO  : 1326
+Time: 48.2212 s
+1 - Val: 9384
+2 - Val: 9104
+3 - Val: 8840
+4 - Val: 8564
+5 - Val: 8342
+6 - Val: 8122
+7 - Val: 7906
+8 - Val: 7696
+9 - Val: 7488
+10 - Val: 7286
+11 - Val: 7084
+12 - Val: 6888
+13 - Val: 6692
+14 - Val: 6512
+15 - Val: 6342
+16 - Val: 6170
+17 - Val: 6010
+18 - Val: 5846
+19 - Val: 5662
+20 - Val: 5502
+21 - Val: 5346
+22 - Val: 5196
+23 - Val: 5056
+24 - Val: 4918
+25 - Val: 4782
+26 - Val: 4650
+27 - Val: 4536
+28 - Val: 4402
+29 - Val: 4280
+30 - Val: 4166
+31 - Val: 4062
+32 - Val: 3964
+33 - Val: 3866
+34 - Val: 3772
+35 - Val: 3678
+36 - Val: 3590
+37 - Val: 3508
+38 - Val: 3436
+39 - Val: 3354
+40 - Val: 3282
+41 - Val: 3210
+42 - Val: 3144
+43 - Val: 3064
+44 - Val: 3002
+45 - Val: 2940
+46 - Val: 2880
+47 - Val: 2828
+48 - Val: 2778
+49 - Val: 2716
+50 - Val: 2666
+51 - Val: 2616
+52 - Val: 2570
+53 - Val: 2526
+54 - Val: 2466
+55 - Val: 2426
+56 - Val: 2386
+57 - Val: 2350
+58 - Val: 2312
+59 - Val: 2280
+60 - Val: 2250
+61 - Val: 2220
+62 - Val: 2190
+63 - Val: 2158
+64 - Val: 2130
+65 - Val: 2104
+66 - Val: 2074
+67 - Val: 2048
+68 - Val: 2012
+69 - Val: 1972
+70 - Val: 1948
+71 - Val: 1924
+72 - Val: 1900
+73 - Val: 1878
+74 - Val: 1834
+75 - Val: 1814
+76 - Val: 1794
+77 - Val: 1776
+78 - Val: 1758
+79 - Val: 1744
+80 - Val: 1730
+81 - Val: 1716
+82 - Val: 1704
+83 - Val: 1692
+84 - Val: 1680
+85 - Val: 1668
+86 - Val: 1642
+87 - Val: 1630
+88 - Val: 1618
+89 - Val: 1608
+90 - Val: 1598
+91 - Val: 1588
+92 - Val: 1578
+93 - Val: 1570
+94 - Val: 1552
+95 - Val: 1544
+96 - Val: 1536
+97 - Val: 1498
+98 - Val: 1486
+99 - Val: 1478
+100 - Val: 1470
+101 - Val: 1464
+102 - Val: 1454
+103 - Val: 1446
+104 - Val: 1440
+105 - Val: 1434
+106 - Val: 1430
+107 - Val: 1420
+108 - Val: 1416
+109 - Val: 1412
+110 - Val: 1410
+111 - Val: 1408
+Non-improving iter: 1
+112 - Val: 1408
+Non-improving iter: 2
+113 - Val: 1408
+Non-improving iter: 3
+114 - Val: 1408
+Non-improving iter: 4
+115 - Val: 1408
+Non-improving iter: 5
+116 - Val: 1408
+Non-improving iter: 6
+117 - Val: 1408
+118 - Val: 1396
+Non-improving iter: 1
+119 - Val: 1396
+120 - Val: 1392
+121 - Val: 1388
+122 - Val: 1382
+123 - Val: 1378
+124 - Val: 1376
+Non-improving iter: 1
+125 - Val: 1376
+Non-improving iter: 2
+126 - Val: 1376
+Non-improving iter: 3
+127 - Val: 1376
+Non-improving iter: 4
+128 - Val: 1376
+Non-improving iter: 5
+129 - Val: 1376
+130 - Val: 1368
+Non-improving iter: 1
+131 - Val: 1368
+Non-improving iter: 2
+132 - Val: 1368
+Non-improving iter: 3
+133 - Val: 1368
+Non-improving iter: 4
+134 - Val: 1368
+Non-improving iter: 5
+135 - Val: 1368
+Non-improving iter: 6
+136 - Val: 1368
+Non-improving iter: 7
+137 - Val: 1368
+Non-improving iter: 8
+138 - Val: 1368
+Non-improving iter: 9
+139 - Val: 1368
+Non-improving iter: 10
+140 - Val: 1368
+Non-improving iter: 11
+141 - Val: 1368
+Non-improving iter: 12
+142 - Val: 1368
+Non-improving iter: 13
+143 - Val: 1368
+Non-improving iter: 14
+144 - Val: 1368
+Non-improving iter: 15
+145 - Val: 1368
+Non-improving iter: 16
+146 - Val: 1368
+Non-improving iter: 17
+147 - Val: 1368
+Non-improving iter: 18
+148 - Val: 1368
+Non-improving iter: 19
+149 - Val: 1368
+Non-improving iter: 20
+150 - Val: 1368
+Non-improving iter: 21
+151 - Val: 1368
+Non-improving iter: 22
+152 - Val: 1368
+Non-improving iter: 23
+153 - Val: 1368
+Non-improving iter: 24
+154 - Val: 1368
+Non-improving iter: 25
+155 - Val: 1368
+Non-improving iter: 26
+156 - Val: 1368
+Non-improving iter: 27
+157 - Val: 1368
+Non-improving iter: 28
+158 - Val: 1368
+Non-improving iter: 29
+159 - Val: 1368
+Non-improving iter: 30
+160 - Val: 1368
+Non-improving iter: 31
+161 - Val: 1368
+Non-improving iter: 32
+162 - Val: 1368
+Non-improving iter: 33
+163 - Val: 1368
+Non-improving iter: 34
+164 - Val: 1368
+Non-improving iter: 35
+165 - Val: 1368
+Non-improving iter: 36
+166 - Val: 1368
+Non-improving iter: 37
+167 - Val: 1368
+Non-improving iter: 38
+168 - Val: 1368
+Non-improving iter: 39
+169 - Val: 1368
+Non-improving iter: 40
+170 - Val: 1368
+Non-improving iter: 41
+171 - Val: 1368
+Non-improving iter: 42
+172 - Val: 1368
+Non-improving iter: 43
+173 - Val: 1368
+Non-improving iter: 44
+174 - Val: 1368
+Non-improving iter: 45
+175 - Val: 1368
+Non-improving iter: 46
+176 - Val: 1368
+Non-improving iter: 47
+177 - Val: 1368
+Non-improving iter: 48
+178 - Val: 1368
+Non-improving iter: 49
+179 - Val: 1368
+Non-improving iter: 50
+180 - Val: 1368
+Non-improving iter: 51
+181 - Val: 1368
+Non-improving iter: 52
+182 - Val: 1368
+Non-improving iter: 53
+183 - Val: 1368
+Non-improving iter: 54
+184 - Val: 1368
+Non-improving iter: 55
+185 - Val: 1368
+Non-improving iter: 56
+186 - Val: 1368
+187 - Val: 1366
+188 - Val: 1360
+189 - Val: 1356
+190 - Val: 1352
+191 - Val: 1348
+192 - Val: 1344
+193 - Val: 1342
+194 - Val: 1340
+195 - Val: 1338
+Non-improving iter: 1
+196 - Val: 1338
+197 - Val: 1336
+Non-improving iter: 1
+198 - Val: 1336
+Non-improving iter: 2
+199 - Val: 1336
+Non-improving iter: 3
+200 - Val: 1336
+Non-improving iter: 4
+201 - Val: 1336
+Non-improving iter: 5
+202 - Val: 1336
+Non-improving iter: 6
+203 - Val: 1336
+Non-improving iter: 7
+204 - Val: 1336
+Non-improving iter: 8
+205 - Val: 1336
+206 - Val: 1332
+207 - Val: 1330
+208 - Val: 1328
+209 - Val: 1326
+210 - Val: 1324
+Non-improving iter: 1
+211 - Val: 1324
+Non-improving iter: 2
+212 - Val: 1324
+Non-improving iter: 3
+213 - Val: 1324
+Non-improving iter: 4
+214 - Val: 1324
+Non-improving iter: 5
+215 - Val: 1324
+Non-improving iter: 6
+216 - Val: 1324
+Non-improving iter: 7
+217 - Val: 1324
+Non-improving iter: 8
+218 - Val: 1324
+Non-improving iter: 9
+219 - Val: 1324
+Non-improving iter: 10
+220 - Val: 1324
+Non-improving iter: 11
+221 - Val: 1324
+Non-improving iter: 12
+222 - Val: 1324
+Non-improving iter: 13
+223 - Val: 1324
+Non-improving iter: 14
+224 - Val: 1324
+Non-improving iter: 15
+225 - Val: 1324
+Non-improving iter: 16
+226 - Val: 1324
+Non-improving iter: 17
+227 - Val: 1324
+Non-improving iter: 18
+228 - Val: 1324
+Non-improving iter: 19
+229 - Val: 1324
+Non-improving iter: 20
+230 - Val: 1324
+Non-improving iter: 21
+231 - Val: 1324
+Non-improving iter: 22
+232 - Val: 1324
+Non-improving iter: 23
+233 - Val: 1324
+Non-improving iter: 24
+234 - Val: 1324
+Non-improving iter: 25
+235 - Val: 1324
+Non-improving iter: 26
+236 - Val: 1324
+Non-improving iter: 27
+237 - Val: 1324
+Non-improving iter: 28
+238 - Val: 1324
+Non-improving iter: 29
+239 - Val: 1324
+Non-improving iter: 30
+240 - Val: 1324
+Non-improving iter: 31
+241 - Val: 1324
+Non-improving iter: 32
+242 - Val: 1324
+Non-improving iter: 33
+243 - Val: 1324
+Non-improving iter: 34
+244 - Val: 1324
+Non-improving iter: 35
+245 - Val: 1324
+Non-improving iter: 36
+246 - Val: 1324
+Non-improving iter: 37
+247 - Val: 1324
+Non-improving iter: 38
+248 - Val: 1324
+Non-improving iter: 39
+249 - Val: 1324
+Non-improving iter: 40
+250 - Val: 1324
+Non-improving iter: 41
+251 - Val: 1324
+Non-improving iter: 42
+252 - Val: 1324
+Non-improving iter: 43
+253 - Val: 1324
+Non-improving iter: 44
+254 - Val: 1324
+Non-improving iter: 45
+255 - Val: 1324
+Non-improving iter: 46
+256 - Val: 1324
+Non-improving iter: 47
+257 - Val: 1324
+Non-improving iter: 48
+258 - Val: 1324
+Non-improving iter: 49
+259 - Val: 1324
+Non-improving iter: 50
+260 - Val: 1324
+Non-improving iter: 51
+261 - Val: 1324
+Non-improving iter: 52
+262 - Val: 1324
+Non-improving iter: 53
+263 - Val: 1324
+Non-improving iter: 54
+264 - Val: 1324
+Non-improving iter: 55
+265 - Val: 1324
+Non-improving iter: 56
+266 - Val: 1324
+Non-improving iter: 57
+267 - Val: 1324
+Non-improving iter: 58
+268 - Val: 1324
+Non-improving iter: 59
+269 - Val: 1324
+Non-improving iter: 60
+270 - Val: 1324
+Non-improving iter: 61
+271 - Val: 1324
+Non-improving iter: 62
+272 - Val: 1324
+Non-improving iter: 63
+273 - Val: 1324
+Non-improving iter: 64
+274 - Val: 1324
+Non-improving iter: 65
+275 - Val: 1324
+Non-improving iter: 66
+276 - Val: 1324
+Non-improving iter: 67
+277 - Val: 1324
+Non-improving iter: 68
+278 - Val: 1324
+Non-improving iter: 69
+279 - Val: 1324
+Non-improving iter: 70
+280 - Val: 1324
+Non-improving iter: 71
+281 - Val: 1324
+Non-improving iter: 72
+282 - Val: 1324
+Non-improving iter: 73
+283 - Val: 1324
+Non-improving iter: 74
+284 - Val: 1324
+Non-improving iter: 75
+285 - Val: 1324
+Non-improving iter: 76
+286 - Val: 1324
+Non-improving iter: 77
+287 - Val: 1324
+Non-improving iter: 78
+288 - Val: 1324
+Non-improving iter: 79
+289 - Val: 1324
+Non-improving iter: 80
+290 - Val: 1324
+Non-improving iter: 81
+291 - Val: 1324
+Non-improving iter: 82
+292 - Val: 1324
+Non-improving iter: 83
+293 - Val: 1324
+Non-improving iter: 84
+294 - Val: 1324
+Non-improving iter: 85
+295 - Val: 1324
+Non-improving iter: 86
+296 - Val: 1324
+Non-improving iter: 87
+297 - Val: 1324
+Non-improving iter: 88
+298 - Val: 1324
+Non-improving iter: 89
+299 - Val: 1324
+Non-improving iter: 90
+300 - Val: 1324
+Non-improving iter: 91
+301 - Val: 1324
+Non-improving iter: 92
+302 - Val: 1324
+Non-improving iter: 93
+303 - Val: 1324
+Non-improving iter: 94
+304 - Val: 1324
+Non-improving iter: 95
+305 - Val: 1324
+Non-improving iter: 96
+306 - Val: 1324
+Non-improving iter: 97
+307 - Val: 1324
+Non-improving iter: 98
+308 - Val: 1324
+Non-improving iter: 99
+309 - Val: 1324
+Non-improving iter: 100
+310 - Val: 1324
+Non-improving iter: 101
+311 - Val: 1324
+Non-improving iter: 102
+312 - Val: 1324
+Non-improving iter: 103
+313 - Val: 1324
+Non-improving iter: 104
+314 - Val: 1324
+Non-improving iter: 105
+315 - Val: 1324
+Non-improving iter: 106
+316 - Val: 1324
+Non-improving iter: 107
+317 - Val: 1324
+Non-improving iter: 108
+318 - Val: 1324
+Non-improving iter: 109
+319 - Val: 1324
+Non-improving iter: 110
+320 - Val: 1324
+Non-improving iter: 111
+321 - Val: 1324
+Non-improving iter: 112
+322 - Val: 1324
+Non-improving iter: 113
+323 - Val: 1324
+Non-improving iter: 114
+324 - Val: 1324
+Non-improving iter: 115
+325 - Val: 1324
+Non-improving iter: 116
+326 - Val: 1324
+Non-improving iter: 117
+327 - Val: 1324
+Non-improving iter: 118
+328 - Val: 1324
+Non-improving iter: 119
+329 - Val: 1324
+Non-improving iter: 120
+FROM: 9384
+TO  : 1324
+Time: 43.0017 s
+1 - Val: 10116
+2 - Val: 9820
+3 - Val: 9526
+4 - Val: 9234
+5 - Val: 8946
+6 - Val: 8656
+7 - Val: 8390
+8 - Val: 8132
+9 - Val: 7912
+10 - Val: 7698
+11 - Val: 7488
+12 - Val: 7278
+13 - Val: 7076
+14 - Val: 6868
+15 - Val: 6678
+16 - Val: 6494
+17 - Val: 6324
+18 - Val: 6162
+19 - Val: 6002
+20 - Val: 5854
+21 - Val: 5700
+22 - Val: 5550
+23 - Val: 5406
+24 - Val: 5262
+25 - Val: 5122
+26 - Val: 4986
+27 - Val: 4856
+28 - Val: 4734
+29 - Val: 4594
+30 - Val: 4488
+31 - Val: 4384
+32 - Val: 4266
+33 - Val: 4154
+34 - Val: 4056
+35 - Val: 3956
+36 - Val: 3858
+37 - Val: 3768
+38 - Val: 3676
+39 - Val: 3584
+40 - Val: 3494
+41 - Val: 3406
+42 - Val: 3312
+43 - Val: 3226
+44 - Val: 3150
+45 - Val: 3084
+46 - Val: 3018
+47 - Val: 2954
+48 - Val: 2896
+49 - Val: 2840
+50 - Val: 2776
+51 - Val: 2722
+52 - Val: 2664
+53 - Val: 2608
+54 - Val: 2562
+55 - Val: 2520
+56 - Val: 2470
+57 - Val: 2430
+58 - Val: 2390
+59 - Val: 2352
+60 - Val: 2314
+61 - Val: 2276
+62 - Val: 2240
+63 - Val: 2198
+64 - Val: 2164
+65 - Val: 2130
+66 - Val: 2098
+67 - Val: 2066
+68 - Val: 2038
+69 - Val: 2010
+70 - Val: 1984
+71 - Val: 1960
+72 - Val: 1938
+73 - Val: 1916
+74 - Val: 1894
+75 - Val: 1874
+76 - Val: 1858
+77 - Val: 1842
+78 - Val: 1826
+79 - Val: 1806
+80 - Val: 1788
+81 - Val: 1772
+82 - Val: 1746
+83 - Val: 1722
+84 - Val: 1700
+85 - Val: 1684
+86 - Val: 1670
+87 - Val: 1656
+88 - Val: 1644
+89 - Val: 1632
+90 - Val: 1620
+91 - Val: 1608
+92 - Val: 1592
+93 - Val: 1582
+94 - Val: 1574
+95 - Val: 1566
+96 - Val: 1558
+97 - Val: 1550
+98 - Val: 1542
+99 - Val: 1536
+100 - Val: 1530
+101 - Val: 1524
+102 - Val: 1520
+103 - Val: 1516
+104 - Val: 1510
+105 - Val: 1506
+106 - Val: 1502
+107 - Val: 1500
+108 - Val: 1498
+109 - Val: 1494
+110 - Val: 1492
+111 - Val: 1490
+112 - Val: 1488
+113 - Val: 1486
+114 - Val: 1484
+115 - Val: 1482
+116 - Val: 1478
+117 - Val: 1466
+118 - Val: 1460
+119 - Val: 1456
+120 - Val: 1452
+121 - Val: 1450
+Non-improving iter: 1
+122 - Val: 1450
+Non-improving iter: 2
+123 - Val: 1450
+Non-improving iter: 3
+124 - Val: 1450
+Non-improving iter: 4
+125 - Val: 1450
+Non-improving iter: 5
+126 - Val: 1450
+Non-improving iter: 6
+127 - Val: 1450
+128 - Val: 1438
+Non-improving iter: 1
+129 - Val: 1438
+130 - Val: 1434
+Non-improving iter: 1
+131 - Val: 1434
+132 - Val: 1430
+133 - Val: 1422
+Non-improving iter: 1
+134 - Val: 1422
+135 - Val: 1404
+Non-improving iter: 1
+136 - Val: 1404
+Non-improving iter: 2
+137 - Val: 1404
+Non-improving iter: 3
+138 - Val: 1404
+Non-improving iter: 4
+139 - Val: 1404
+Non-improving iter: 5
+140 - Val: 1404
+Non-improving iter: 6
+141 - Val: 1404
+Non-improving iter: 7
+142 - Val: 1404
+Non-improving iter: 8
+143 - Val: 1404
+Non-improving iter: 9
+144 - Val: 1404
+Non-improving iter: 10
+145 - Val: 1404
+Non-improving iter: 11
+146 - Val: 1404
+Non-improving iter: 12
+147 - Val: 1404
+Non-improving iter: 13
+148 - Val: 1404
+Non-improving iter: 14
+149 - Val: 1404
+Non-improving iter: 15
+150 - Val: 1404
+Non-improving iter: 16
+151 - Val: 1404
+Non-improving iter: 17
+152 - Val: 1404
+Non-improving iter: 18
+153 - Val: 1404
+Non-improving iter: 19
+154 - Val: 1404
+Non-improving iter: 20
+155 - Val: 1404
+Non-improving iter: 21
+156 - Val: 1404
+Non-improving iter: 22
+157 - Val: 1404
+Non-improving iter: 23
+158 - Val: 1404
+Non-improving iter: 24
+159 - Val: 1404
+Non-improving iter: 25
+160 - Val: 1404
+Non-improving iter: 26
+161 - Val: 1404
+Non-improving iter: 27
+162 - Val: 1404
+Non-improving iter: 28
+163 - Val: 1404
+Non-improving iter: 29
+164 - Val: 1404
+Non-improving iter: 30
+165 - Val: 1404
+Non-improving iter: 31
+166 - Val: 1404
+Non-improving iter: 32
+167 - Val: 1404
+Non-improving iter: 33
+168 - Val: 1404
+Non-improving iter: 34
+169 - Val: 1404
+Non-improving iter: 35
+170 - Val: 1404
+Non-improving iter: 36
+171 - Val: 1404
+Non-improving iter: 37
+172 - Val: 1404
+Non-improving iter: 38
+173 - Val: 1404
+Non-improving iter: 39
+174 - Val: 1404
+Non-improving iter: 40
+175 - Val: 1404
+Non-improving iter: 41
+176 - Val: 1404
+Non-improving iter: 42
+177 - Val: 1404
+Non-improving iter: 43
+178 - Val: 1404
+Non-improving iter: 44
+179 - Val: 1404
+Non-improving iter: 45
+180 - Val: 1404
+Non-improving iter: 46
+181 - Val: 1404
+Non-improving iter: 47
+182 - Val: 1404
+Non-improving iter: 48
+183 - Val: 1404
+Non-improving iter: 49
+184 - Val: 1404
+Non-improving iter: 50
+185 - Val: 1404
+Non-improving iter: 51
+186 - Val: 1404
+Non-improving iter: 52
+187 - Val: 1404
+Non-improving iter: 53
+188 - Val: 1404
+Non-improving iter: 54
+189 - Val: 1404
+Non-improving iter: 55
+190 - Val: 1404
+Non-improving iter: 56
+191 - Val: 1404
+Non-improving iter: 57
+192 - Val: 1404
+Non-improving iter: 58
+193 - Val: 1404
+Non-improving iter: 59
+194 - Val: 1404
+Non-improving iter: 60
+195 - Val: 1404
+Non-improving iter: 61
+196 - Val: 1404
+Non-improving iter: 62
+197 - Val: 1404
+198 - Val: 1400
+199 - Val: 1396
+200 - Val: 1392
+201 - Val: 1388
+202 - Val: 1384
+203 - Val: 1380
+Non-improving iter: 1
+204 - Val: 1380
+Non-improving iter: 2
+205 - Val: 1380
+Non-improving iter: 3
+206 - Val: 1380
+Non-improving iter: 4
+207 - Val: 1380
+Non-improving iter: 5
+208 - Val: 1380
+Non-improving iter: 6
+209 - Val: 1380
+Non-improving iter: 7
+210 - Val: 1380
+Non-improving iter: 8
+211 - Val: 1380
+Non-improving iter: 9
+212 - Val: 1380
+Non-improving iter: 10
+213 - Val: 1380
+Non-improving iter: 11
+214 - Val: 1380
+Non-improving iter: 12
+215 - Val: 1380
+Non-improving iter: 13
+216 - Val: 1380
+Non-improving iter: 14
+217 - Val: 1380
+Non-improving iter: 15
+218 - Val: 1380
+Non-improving iter: 16
+219 - Val: 1380
+Non-improving iter: 17
+220 - Val: 1380
+Non-improving iter: 18
+221 - Val: 1380
+Non-improving iter: 19
+222 - Val: 1380
+Non-improving iter: 20
+223 - Val: 1380
+Non-improving iter: 21
+224 - Val: 1380
+Non-improving iter: 22
+225 - Val: 1380
+Non-improving iter: 23
+226 - Val: 1380
+Non-improving iter: 24
+227 - Val: 1380
+Non-improving iter: 25
+228 - Val: 1380
+Non-improving iter: 26
+229 - Val: 1380
+Non-improving iter: 27
+230 - Val: 1380
+Non-improving iter: 28
+231 - Val: 1380
+Non-improving iter: 29
+232 - Val: 1380
+Non-improving iter: 30
+233 - Val: 1380
+Non-improving iter: 31
+234 - Val: 1380
+Non-improving iter: 32
+235 - Val: 1380
+Non-improving iter: 33
+236 - Val: 1380
+Non-improving iter: 34
+237 - Val: 1380
+Non-improving iter: 35
+238 - Val: 1380
+Non-improving iter: 36
+239 - Val: 1380
+Non-improving iter: 37
+240 - Val: 1380
+Non-improving iter: 38
+241 - Val: 1380
+Non-improving iter: 39
+242 - Val: 1380
+Non-improving iter: 40
+243 - Val: 1380
+Non-improving iter: 41
+244 - Val: 1380
+Non-improving iter: 42
+245 - Val: 1380
+Non-improving iter: 43
+246 - Val: 1380
+Non-improving iter: 44
+247 - Val: 1380
+Non-improving iter: 45
+248 - Val: 1380
+Non-improving iter: 46
+249 - Val: 1380
+Non-improving iter: 47
+250 - Val: 1380
+Non-improving iter: 48
+251 - Val: 1380
+Non-improving iter: 49
+252 - Val: 1380
+Non-improving iter: 50
+253 - Val: 1380
+Non-improving iter: 51
+254 - Val: 1380
+Non-improving iter: 52
+255 - Val: 1380
+Non-improving iter: 53
+256 - Val: 1380
+Non-improving iter: 54
+257 - Val: 1380
+Non-improving iter: 55
+258 - Val: 1380
+Non-improving iter: 56
+259 - Val: 1380
+Non-improving iter: 57
+260 - Val: 1380
+Non-improving iter: 58
+261 - Val: 1380
+262 - Val: 1378
+Non-improving iter: 1
+263 - Val: 1378
+Non-improving iter: 2
+264 - Val: 1378
+Non-improving iter: 3
+265 - Val: 1378
+Non-improving iter: 4
+266 - Val: 1378
+Non-improving iter: 5
+267 - Val: 1378
+Non-improving iter: 6
+268 - Val: 1378
+Non-improving iter: 7
+269 - Val: 1378
+Non-improving iter: 8
+270 - Val: 1378
+Non-improving iter: 9
+271 - Val: 1378
+Non-improving iter: 10
+272 - Val: 1378
+Non-improving iter: 11
+273 - Val: 1378
+Non-improving iter: 12
+274 - Val: 1378
+Non-improving iter: 13
+275 - Val: 1378
+Non-improving iter: 14
+276 - Val: 1378
+Non-improving iter: 15
+277 - Val: 1378
+Non-improving iter: 16
+278 - Val: 1378
+Non-improving iter: 17
+279 - Val: 1378
+Non-improving iter: 18
+280 - Val: 1378
+Non-improving iter: 19
+281 - Val: 1378
+Non-improving iter: 20
+282 - Val: 1378
+Non-improving iter: 21
+283 - Val: 1378
+Non-improving iter: 22
+284 - Val: 1378
+Non-improving iter: 23
+285 - Val: 1378
+Non-improving iter: 24
+286 - Val: 1378
+Non-improving iter: 25
+287 - Val: 1378
+Non-improving iter: 26
+288 - Val: 1378
+Non-improving iter: 27
+289 - Val: 1378
+Non-improving iter: 28
+290 - Val: 1378
+Non-improving iter: 29
+291 - Val: 1378
+Non-improving iter: 30
+292 - Val: 1378
+Non-improving iter: 31
+293 - Val: 1378
+Non-improving iter: 32
+294 - Val: 1378
+Non-improving iter: 33
+295 - Val: 1378
+Non-improving iter: 34
+296 - Val: 1378
+Non-improving iter: 35
+297 - Val: 1378
+Non-improving iter: 36
+298 - Val: 1378
+Non-improving iter: 37
+299 - Val: 1378
+Non-improving iter: 38
+300 - Val: 1378
+Non-improving iter: 39
+301 - Val: 1378
+Non-improving iter: 40
+302 - Val: 1378
+Non-improving iter: 41
+303 - Val: 1378
+Non-improving iter: 42
+304 - Val: 1378
+Non-improving iter: 43
+305 - Val: 1378
+Non-improving iter: 44
+306 - Val: 1378
+Non-improving iter: 45
+307 - Val: 1378
+Non-improving iter: 46
+308 - Val: 1378
+Non-improving iter: 47
+309 - Val: 1378
+Non-improving iter: 48
+310 - Val: 1378
+Non-improving iter: 49
+311 - Val: 1378
+Non-improving iter: 50
+312 - Val: 1378
+Non-improving iter: 51
+313 - Val: 1378
+Non-improving iter: 52
+314 - Val: 1378
+Non-improving iter: 53
+315 - Val: 1378
+Non-improving iter: 54
+316 - Val: 1378
+Non-improving iter: 55
+317 - Val: 1378
+Non-improving iter: 56
+318 - Val: 1378
+Non-improving iter: 57
+319 - Val: 1378
+Non-improving iter: 58
+320 - Val: 1378
+Non-improving iter: 59
+321 - Val: 1378
+322 - Val: 1376
+323 - Val: 1370
+324 - Val: 1366
+325 - Val: 1362
+326 - Val: 1360
+Non-improving iter: 1
+327 - Val: 1360
+Non-improving iter: 2
+328 - Val: 1360
+Non-improving iter: 3
+329 - Val: 1360
+Non-improving iter: 4
+330 - Val: 1360
+Non-improving iter: 5
+331 - Val: 1360
+332 - Val: 1354
+333 - Val: 1350
+334 - Val: 1348
+Non-improving iter: 1
+335 - Val: 1348
+Non-improving iter: 2
+336 - Val: 1348
+Non-improving iter: 3
+337 - Val: 1348
+Non-improving iter: 4
+338 - Val: 1348
+Non-improving iter: 5
+339 - Val: 1348
+340 - Val: 1346
+341 - Val: 1344
+342 - Val: 1342
+Non-improving iter: 1
+343 - Val: 1342
+Non-improving iter: 2
+344 - Val: 1342
+Non-improving iter: 3
+345 - Val: 1342
+Non-improving iter: 4
+346 - Val: 1342
+Non-improving iter: 5
+347 - Val: 1342
+Non-improving iter: 6
+348 - Val: 1342
+Non-improving iter: 7
+349 - Val: 1342
+Non-improving iter: 8
+350 - Val: 1342
+Non-improving iter: 9
+351 - Val: 1342
+Non-improving iter: 10
+352 - Val: 1342
+Non-improving iter: 11
+353 - Val: 1342
+Non-improving iter: 12
+354 - Val: 1342
+Non-improving iter: 13
+355 - Val: 1342
+Non-improving iter: 14
+356 - Val: 1342
+Non-improving iter: 15
+357 - Val: 1342
+Non-improving iter: 16
+358 - Val: 1342
+Non-improving iter: 17
+359 - Val: 1342
+Non-improving iter: 18
+360 - Val: 1342
+Non-improving iter: 19
+361 - Val: 1342
+Non-improving iter: 20
+362 - Val: 1342
+Non-improving iter: 21
+363 - Val: 1342
+Non-improving iter: 22
+364 - Val: 1342
+Non-improving iter: 23
+365 - Val: 1342
+Non-improving iter: 24
+366 - Val: 1342
+Non-improving iter: 25
+367 - Val: 1342
+Non-improving iter: 26
+368 - Val: 1342
+Non-improving iter: 27
+369 - Val: 1342
+Non-improving iter: 28
+370 - Val: 1342
+Non-improving iter: 29
+371 - Val: 1342
+Non-improving iter: 30
+372 - Val: 1342
+Non-improving iter: 31
+373 - Val: 1342
+Non-improving iter: 32
+374 - Val: 1342
+Non-improving iter: 33
+375 - Val: 1342
+Non-improving iter: 34
+376 - Val: 1342
+Non-improving iter: 35
+377 - Val: 1342
+Non-improving iter: 36
+378 - Val: 1342
+Non-improving iter: 37
+379 - Val: 1342
+Non-improving iter: 38
+380 - Val: 1342
+Non-improving iter: 39
+381 - Val: 1342
+Non-improving iter: 40
+382 - Val: 1342
+Non-improving iter: 41
+383 - Val: 1342
+Non-improving iter: 42
+384 - Val: 1342
+Non-improving iter: 43
+385 - Val: 1342
+Non-improving iter: 44
+386 - Val: 1342
+Non-improving iter: 45
+387 - Val: 1342
+Non-improving iter: 46
+388 - Val: 1342
+Non-improving iter: 47
+389 - Val: 1342
+Non-improving iter: 48
+390 - Val: 1342
+Non-improving iter: 49
+391 - Val: 1342
+Non-improving iter: 50
+392 - Val: 1342
+Non-improving iter: 51
+393 - Val: 1342
+Non-improving iter: 52
+394 - Val: 1342
+Non-improving iter: 53
+395 - Val: 1342
+Non-improving iter: 54
+396 - Val: 1342
+Non-improving iter: 55
+397 - Val: 1342
+Non-improving iter: 56
+398 - Val: 1342
+Non-improving iter: 57
+399 - Val: 1342
+Non-improving iter: 58
+400 - Val: 1342
+Non-improving iter: 59
+401 - Val: 1342
+Non-improving iter: 60
+402 - Val: 1342
+Non-improving iter: 61
+403 - Val: 1342
+Non-improving iter: 62
+404 - Val: 1342
+Non-improving iter: 63
+405 - Val: 1342
+Non-improving iter: 64
+406 - Val: 1342
+Non-improving iter: 65
+407 - Val: 1342
+Non-improving iter: 66
+408 - Val: 1342
+Non-improving iter: 67
+409 - Val: 1342
+Non-improving iter: 68
+410 - Val: 1342
+Non-improving iter: 69
+411 - Val: 1342
+Non-improving iter: 70
+412 - Val: 1342
+Non-improving iter: 71
+413 - Val: 1342
+Non-improving iter: 72
+414 - Val: 1342
+Non-improving iter: 73
+415 - Val: 1342
+Non-improving iter: 74
+416 - Val: 1342
+Non-improving iter: 75
+417 - Val: 1342
+Non-improving iter: 76
+418 - Val: 1342
+Non-improving iter: 77
+419 - Val: 1342
+Non-improving iter: 78
+420 - Val: 1342
+Non-improving iter: 79
+421 - Val: 1342
+Non-improving iter: 80
+422 - Val: 1342
+Non-improving iter: 81
+423 - Val: 1342
+Non-improving iter: 82
+424 - Val: 1342
+Non-improving iter: 83
+425 - Val: 1342
+Non-improving iter: 84
+426 - Val: 1342
+Non-improving iter: 85
+427 - Val: 1342
+Non-improving iter: 86
+428 - Val: 1342
+Non-improving iter: 87
+429 - Val: 1342
+Non-improving iter: 88
+430 - Val: 1342
+Non-improving iter: 89
+431 - Val: 1342
+Non-improving iter: 90
+432 - Val: 1342
+Non-improving iter: 91
+433 - Val: 1342
+Non-improving iter: 92
+434 - Val: 1342
+Non-improving iter: 93
+435 - Val: 1342
+Non-improving iter: 94
+436 - Val: 1342
+Non-improving iter: 95
+437 - Val: 1342
+Non-improving iter: 96
+438 - Val: 1342
+Non-improving iter: 97
+439 - Val: 1342
+Non-improving iter: 98
+440 - Val: 1342
+Non-improving iter: 99
+441 - Val: 1342
+Non-improving iter: 100
+442 - Val: 1342
+Non-improving iter: 101
+443 - Val: 1342
+Non-improving iter: 102
+444 - Val: 1342
+Non-improving iter: 103
+445 - Val: 1342
+Non-improving iter: 104
+446 - Val: 1342
+Non-improving iter: 105
+447 - Val: 1342
+Non-improving iter: 106
+448 - Val: 1342
+Non-improving iter: 107
+449 - Val: 1342
+Non-improving iter: 108
+450 - Val: 1342
+Non-improving iter: 109
+451 - Val: 1342
+Non-improving iter: 110
+452 - Val: 1342
+Non-improving iter: 111
+453 - Val: 1342
+Non-improving iter: 112
+454 - Val: 1342
+Non-improving iter: 113
+455 - Val: 1342
+Non-improving iter: 114
+456 - Val: 1342
+Non-improving iter: 115
+457 - Val: 1342
+Non-improving iter: 116
+458 - Val: 1342
+Non-improving iter: 117
+459 - Val: 1342
+Non-improving iter: 118
+460 - Val: 1342
+Non-improving iter: 119
+461 - Val: 1342
+Non-improving iter: 120
+FROM: 10116
+TO  : 1342
+Time: 59.5823 s
+1 - Val: 9666
+2 - Val: 9372
+3 - Val: 9092
+4 - Val: 8834
+5 - Val: 8580
+6 - Val: 8338
+7 - Val: 8116
+8 - Val: 7868
+9 - Val: 7646
+10 - Val: 7428
+11 - Val: 7214
+12 - Val: 6996
+13 - Val: 6804
+14 - Val: 6614
+15 - Val: 6440
+16 - Val: 6266
+17 - Val: 6094
+18 - Val: 5936
+19 - Val: 5786
+20 - Val: 5638
+21 - Val: 5492
+22 - Val: 5354
+23 - Val: 5224
+24 - Val: 5094
+25 - Val: 4968
+26 - Val: 4858
+27 - Val: 4730
+28 - Val: 4622
+29 - Val: 4510
+30 - Val: 4404
+31 - Val: 4300
+32 - Val: 4198
+33 - Val: 4092
+34 - Val: 3992
+35 - Val: 3902
+36 - Val: 3806
+37 - Val: 3716
+38 - Val: 3630
+39 - Val: 3548
+40 - Val: 3466
+41 - Val: 3378
+42 - Val: 3296
+43 - Val: 3220
+44 - Val: 3148
+45 - Val: 3074
+46 - Val: 3000
+47 - Val: 2930
+48 - Val: 2868
+49 - Val: 2802
+50 - Val: 2742
+51 - Val: 2684
+52 - Val: 2628
+53 - Val: 2572
+54 - Val: 2518
+55 - Val: 2464
+56 - Val: 2418
+57 - Val: 2374
+58 - Val: 2330
+59 - Val: 2294
+60 - Val: 2252
+61 - Val: 2220
+62 - Val: 2186
+63 - Val: 2154
+64 - Val: 2120
+65 - Val: 2076
+66 - Val: 2044
+67 - Val: 2012
+68 - Val: 1980
+69 - Val: 1952
+70 - Val: 1922
+71 - Val: 1896
+72 - Val: 1870
+73 - Val: 1846
+74 - Val: 1824
+75 - Val: 1798
+76 - Val: 1776
+77 - Val: 1750
+78 - Val: 1728
+79 - Val: 1708
+80 - Val: 1690
+81 - Val: 1672
+82 - Val: 1656
+83 - Val: 1640
+84 - Val: 1626
+85 - Val: 1612
+86 - Val: 1598
+87 - Val: 1586
+88 - Val: 1576
+89 - Val: 1568
+90 - Val: 1556
+91 - Val: 1548
+92 - Val: 1538
+93 - Val: 1532
+94 - Val: 1528
+95 - Val: 1518
+96 - Val: 1504
+97 - Val: 1500
+98 - Val: 1496
+99 - Val: 1492
+100 - Val: 1488
+101 - Val: 1484
+102 - Val: 1480
+103 - Val: 1470
+104 - Val: 1466
+105 - Val: 1462
+106 - Val: 1458
+107 - Val: 1454
+108 - Val: 1450
+109 - Val: 1446
+110 - Val: 1444
+111 - Val: 1440
+112 - Val: 1438
+113 - Val: 1436
+114 - Val: 1434
+Non-improving iter: 1
+115 - Val: 1434
+Non-improving iter: 2
+116 - Val: 1434
+117 - Val: 1432
+Non-improving iter: 1
+118 - Val: 1432
+Non-improving iter: 2
+119 - Val: 1432
+Non-improving iter: 3
+120 - Val: 1432
+121 - Val: 1426
+Non-improving iter: 1
+122 - Val: 1426
+123 - Val: 1422
+Non-improving iter: 1
+124 - Val: 1422
+Non-improving iter: 2
+125 - Val: 1422
+126 - Val: 1418
+127 - Val: 1408
+128 - Val: 1402
+129 - Val: 1396
+Non-improving iter: 1
+130 - Val: 1396
+131 - Val: 1388
+Non-improving iter: 1
+132 - Val: 1388
+Non-improving iter: 2
+133 - Val: 1388
+Non-improving iter: 3
+134 - Val: 1388
+Non-improving iter: 4
+135 - Val: 1388
+Non-improving iter: 5
+136 - Val: 1388
+Non-improving iter: 6
+137 - Val: 1388
+Non-improving iter: 7
+138 - Val: 1388
+Non-improving iter: 8
+139 - Val: 1388
+Non-improving iter: 9
+140 - Val: 1388
+Non-improving iter: 10
+141 - Val: 1388
+Non-improving iter: 11
+142 - Val: 1388
+Non-improving iter: 12
+143 - Val: 1388
+Non-improving iter: 13
+144 - Val: 1388
+Non-improving iter: 14
+145 - Val: 1388
+Non-improving iter: 15
+146 - Val: 1388
+Non-improving iter: 16
+147 - Val: 1388
+Non-improving iter: 17
+148 - Val: 1388
+Non-improving iter: 18
+149 - Val: 1388
+Non-improving iter: 19
+150 - Val: 1388
+Non-improving iter: 20
+151 - Val: 1388
+Non-improving iter: 21
+152 - Val: 1388
+Non-improving iter: 22
+153 - Val: 1388
+Non-improving iter: 23
+154 - Val: 1388
+Non-improving iter: 24
+155 - Val: 1388
+Non-improving iter: 25
+156 - Val: 1388
+Non-improving iter: 26
+157 - Val: 1388
+Non-improving iter: 27
+158 - Val: 1388
+Non-improving iter: 28
+159 - Val: 1388
+Non-improving iter: 29
+160 - Val: 1388
+Non-improving iter: 30
+161 - Val: 1388
+Non-improving iter: 31
+162 - Val: 1388
+Non-improving iter: 32
+163 - Val: 1388
+Non-improving iter: 33
+164 - Val: 1388
+Non-improving iter: 34
+165 - Val: 1388
+Non-improving iter: 35
+166 - Val: 1388
+Non-improving iter: 36
+167 - Val: 1388
+Non-improving iter: 37
+168 - Val: 1388
+Non-improving iter: 38
+169 - Val: 1388
+Non-improving iter: 39
+170 - Val: 1388
+Non-improving iter: 40
+171 - Val: 1388
+Non-improving iter: 41
+172 - Val: 1388
+Non-improving iter: 42
+173 - Val: 1388
+Non-improving iter: 43
+174 - Val: 1388
+Non-improving iter: 44
+175 - Val: 1388
+Non-improving iter: 45
+176 - Val: 1388
+Non-improving iter: 46
+177 - Val: 1388
+Non-improving iter: 47
+178 - Val: 1388
+Non-improving iter: 48
+179 - Val: 1388
+Non-improving iter: 49
+180 - Val: 1388
+Non-improving iter: 50
+181 - Val: 1388
+Non-improving iter: 51
+182 - Val: 1388
+Non-improving iter: 52
+183 - Val: 1388
+Non-improving iter: 53
+184 - Val: 1388
+Non-improving iter: 54
+185 - Val: 1388
+Non-improving iter: 55
+186 - Val: 1388
+Non-improving iter: 56
+187 - Val: 1388
+Non-improving iter: 57
+188 - Val: 1388
+Non-improving iter: 58
+189 - Val: 1388
+Non-improving iter: 59
+190 - Val: 1388
+Non-improving iter: 60
+191 - Val: 1388
+192 - Val: 1386
+193 - Val: 1380
+194 - Val: 1376
+195 - Val: 1374
+196 - Val: 1372
+197 - Val: 1368
+Non-improving iter: 1
+198 - Val: 1368
+Non-improving iter: 2
+199 - Val: 1368
+Non-improving iter: 3
+200 - Val: 1368
+Non-improving iter: 4
+201 - Val: 1368
+Non-improving iter: 5
+202 - Val: 1368
+Non-improving iter: 6
+203 - Val: 1368
+Non-improving iter: 7
+204 - Val: 1368
+Non-improving iter: 8
+205 - Val: 1368
+Non-improving iter: 9
+206 - Val: 1368
+207 - Val: 1360
+208 - Val: 1356
+209 - Val: 1354
+210 - Val: 1352
+211 - Val: 1350
+Non-improving iter: 1
+212 - Val: 1350
+Non-improving iter: 2
+213 - Val: 1350
+Non-improving iter: 3
+214 - Val: 1350
+Non-improving iter: 4
+215 - Val: 1350
+Non-improving iter: 5
+216 - Val: 1350
+Non-improving iter: 6
+217 - Val: 1350
+Non-improving iter: 7
+218 - Val: 1350
+Non-improving iter: 8
+219 - Val: 1350
+Non-improving iter: 9
+220 - Val: 1350
+Non-improving iter: 10
+221 - Val: 1350
+Non-improving iter: 11
+222 - Val: 1350
+Non-improving iter: 12
+223 - Val: 1350
+Non-improving iter: 13
+224 - Val: 1350
+Non-improving iter: 14
+225 - Val: 1350
+Non-improving iter: 15
+226 - Val: 1350
+Non-improving iter: 16
+227 - Val: 1350
+Non-improving iter: 17
+228 - Val: 1350
+Non-improving iter: 18
+229 - Val: 1350
+Non-improving iter: 19
+230 - Val: 1350
+Non-improving iter: 20
+231 - Val: 1350
+Non-improving iter: 21
+232 - Val: 1350
+Non-improving iter: 22
+233 - Val: 1350
+Non-improving iter: 23
+234 - Val: 1350
+Non-improving iter: 24
+235 - Val: 1350
+Non-improving iter: 25
+236 - Val: 1350
+Non-improving iter: 26
+237 - Val: 1350
+Non-improving iter: 27
+238 - Val: 1350
+Non-improving iter: 28
+239 - Val: 1350
+Non-improving iter: 29
+240 - Val: 1350
+Non-improving iter: 30
+241 - Val: 1350
+Non-improving iter: 31
+242 - Val: 1350
+Non-improving iter: 32
+243 - Val: 1350
+Non-improving iter: 33
+244 - Val: 1350
+Non-improving iter: 34
+245 - Val: 1350
+Non-improving iter: 35
+246 - Val: 1350
+Non-improving iter: 36
+247 - Val: 1350
+Non-improving iter: 37
+248 - Val: 1350
+Non-improving iter: 38
+249 - Val: 1350
+Non-improving iter: 39
+250 - Val: 1350
+Non-improving iter: 40
+251 - Val: 1350
+Non-improving iter: 41
+252 - Val: 1350
+Non-improving iter: 42
+253 - Val: 1350
+Non-improving iter: 43
+254 - Val: 1350
+Non-improving iter: 44
+255 - Val: 1350
+Non-improving iter: 45
+256 - Val: 1350
+Non-improving iter: 46
+257 - Val: 1350
+Non-improving iter: 47
+258 - Val: 1350
+Non-improving iter: 48
+259 - Val: 1350
+Non-improving iter: 49
+260 - Val: 1350
+Non-improving iter: 50
+261 - Val: 1350
+Non-improving iter: 51
+262 - Val: 1350
+Non-improving iter: 52
+263 - Val: 1350
+Non-improving iter: 53
+264 - Val: 1350
+Non-improving iter: 54
+265 - Val: 1350
+Non-improving iter: 55
+266 - Val: 1350
+Non-improving iter: 56
+267 - Val: 1350
+Non-improving iter: 57
+268 - Val: 1350
+Non-improving iter: 58
+269 - Val: 1350
+Non-improving iter: 59
+270 - Val: 1350
+Non-improving iter: 60
+271 - Val: 1350
+Non-improving iter: 61
+272 - Val: 1350
+Non-improving iter: 62
+273 - Val: 1350
+Non-improving iter: 63
+274 - Val: 1350
+Non-improving iter: 64
+275 - Val: 1350
+Non-improving iter: 65
+276 - Val: 1350
+Non-improving iter: 66
+277 - Val: 1350
+Non-improving iter: 67
+278 - Val: 1350
+Non-improving iter: 68
+279 - Val: 1350
+Non-improving iter: 69
+280 - Val: 1350
+Non-improving iter: 70
+281 - Val: 1350
+Non-improving iter: 71
+282 - Val: 1350
+Non-improving iter: 72
+283 - Val: 1350
+Non-improving iter: 73
+284 - Val: 1350
+Non-improving iter: 74
+285 - Val: 1350
+Non-improving iter: 75
+286 - Val: 1350
+Non-improving iter: 76
+287 - Val: 1350
+Non-improving iter: 77
+288 - Val: 1350
+Non-improving iter: 78
+289 - Val: 1350
+Non-improving iter: 79
+290 - Val: 1350
+Non-improving iter: 80
+291 - Val: 1350
+Non-improving iter: 81
+292 - Val: 1350
+Non-improving iter: 82
+293 - Val: 1350
+Non-improving iter: 83
+294 - Val: 1350
+Non-improving iter: 84
+295 - Val: 1350
+Non-improving iter: 85
+296 - Val: 1350
+Non-improving iter: 86
+297 - Val: 1350
+Non-improving iter: 87
+298 - Val: 1350
+Non-improving iter: 88
+299 - Val: 1350
+Non-improving iter: 89
+300 - Val: 1350
+Non-improving iter: 90
+301 - Val: 1350
+Non-improving iter: 91
+302 - Val: 1350
+Non-improving iter: 92
+303 - Val: 1350
+Non-improving iter: 93
+304 - Val: 1350
+Non-improving iter: 94
+305 - Val: 1350
+Non-improving iter: 95
+306 - Val: 1350
+Non-improving iter: 96
+307 - Val: 1350
+Non-improving iter: 97
+308 - Val: 1350
+Non-improving iter: 98
+309 - Val: 1350
+Non-improving iter: 99
+310 - Val: 1350
+Non-improving iter: 100
+311 - Val: 1350
+Non-improving iter: 101
+312 - Val: 1350
+Non-improving iter: 102
+313 - Val: 1350
+Non-improving iter: 103
+314 - Val: 1350
+Non-improving iter: 104
+315 - Val: 1350
+Non-improving iter: 105
+316 - Val: 1350
+Non-improving iter: 106
+317 - Val: 1350
+Non-improving iter: 107
+318 - Val: 1350
+Non-improving iter: 108
+319 - Val: 1350
+Non-improving iter: 109
+320 - Val: 1350
+Non-improving iter: 110
+321 - Val: 1350
+Non-improving iter: 111
+322 - Val: 1350
+Non-improving iter: 112
+323 - Val: 1350
+Non-improving iter: 113
+324 - Val: 1350
+Non-improving iter: 114
+325 - Val: 1350
+Non-improving iter: 115
+326 - Val: 1350
+Non-improving iter: 116
+327 - Val: 1350
+Non-improving iter: 117
+328 - Val: 1350
+Non-improving iter: 118
+329 - Val: 1350
+Non-improving iter: 119
+330 - Val: 1350
+Non-improving iter: 120
+FROM: 9666
+TO  : 1350
+Time: 42.7066 s
+1 - Val: 9442
+2 - Val: 9124
+3 - Val: 8822
+4 - Val: 8556
+5 - Val: 8300
+6 - Val: 8070
+7 - Val: 7850
+8 - Val: 7632
+9 - Val: 7430
+10 - Val: 7230
+11 - Val: 7020
+12 - Val: 6824
+13 - Val: 6614
+14 - Val: 6418
+15 - Val: 6226
+16 - Val: 6042
+17 - Val: 5854
+18 - Val: 5662
+19 - Val: 5472
+20 - Val: 5330
+21 - Val: 5188
+22 - Val: 5052
+23 - Val: 4918
+24 - Val: 4794
+25 - Val: 4670
+26 - Val: 4540
+27 - Val: 4406
+28 - Val: 4286
+29 - Val: 4168
+30 - Val: 4060
+31 - Val: 3932
+32 - Val: 3800
+33 - Val: 3696
+34 - Val: 3594
+35 - Val: 3502
+36 - Val: 3416
+37 - Val: 3332
+38 - Val: 3244
+39 - Val: 3168
+40 - Val: 3100
+41 - Val: 3032
+42 - Val: 2958
+43 - Val: 2906
+44 - Val: 2860
+45 - Val: 2798
+46 - Val: 2746
+47 - Val: 2696
+48 - Val: 2654
+49 - Val: 2612
+50 - Val: 2572
+51 - Val: 2532
+52 - Val: 2492
+53 - Val: 2450
+54 - Val: 2412
+55 - Val: 2374
+56 - Val: 2324
+57 - Val: 2288
+58 - Val: 2254
+59 - Val: 2220
+60 - Val: 2186
+61 - Val: 2152
+62 - Val: 2118
+63 - Val: 2090
+64 - Val: 2062
+65 - Val: 2034
+66 - Val: 2004
+67 - Val: 1978
+68 - Val: 1954
+69 - Val: 1936
+70 - Val: 1920
+71 - Val: 1904
+72 - Val: 1866
+73 - Val: 1834
+74 - Val: 1818
+75 - Val: 1802
+76 - Val: 1786
+77 - Val: 1772
+78 - Val: 1744
+79 - Val: 1730
+80 - Val: 1716
+81 - Val: 1704
+82 - Val: 1692
+83 - Val: 1656
+84 - Val: 1644
+85 - Val: 1634
+86 - Val: 1624
+87 - Val: 1614
+88 - Val: 1598
+89 - Val: 1586
+90 - Val: 1574
+91 - Val: 1564
+92 - Val: 1554
+93 - Val: 1540
+94 - Val: 1530
+95 - Val: 1520
+96 - Val: 1512
+97 - Val: 1504
+98 - Val: 1496
+99 - Val: 1488
+100 - Val: 1482
+101 - Val: 1476
+102 - Val: 1464
+103 - Val: 1458
+104 - Val: 1452
+105 - Val: 1420
+106 - Val: 1414
+107 - Val: 1408
+108 - Val: 1404
+109 - Val: 1400
+110 - Val: 1388
+111 - Val: 1382
+112 - Val: 1370
+113 - Val: 1366
+114 - Val: 1360
+115 - Val: 1356
+116 - Val: 1354
+117 - Val: 1352
+Non-improving iter: 1
+118 - Val: 1352
+Non-improving iter: 2
+119 - Val: 1352
+Non-improving iter: 3
+120 - Val: 1352
+Non-improving iter: 4
+121 - Val: 1352
+Non-improving iter: 5
+122 - Val: 1352
+Non-improving iter: 6
+123 - Val: 1352
+Non-improving iter: 7
+124 - Val: 1352
+Non-improving iter: 8
+125 - Val: 1352
+Non-improving iter: 9
+126 - Val: 1352
+Non-improving iter: 10
+127 - Val: 1352
+Non-improving iter: 11
+128 - Val: 1352
+Non-improving iter: 12
+129 - Val: 1352
+Non-improving iter: 13
+130 - Val: 1352
+Non-improving iter: 14
+131 - Val: 1352
+Non-improving iter: 15
+132 - Val: 1352
+Non-improving iter: 16
+133 - Val: 1352
+Non-improving iter: 17
+134 - Val: 1352
+Non-improving iter: 18
+135 - Val: 1352
+Non-improving iter: 19
+136 - Val: 1352
+Non-improving iter: 20
+137 - Val: 1352
+Non-improving iter: 21
+138 - Val: 1352
+Non-improving iter: 22
+139 - Val: 1352
+Non-improving iter: 23
+140 - Val: 1352
+Non-improving iter: 24
+141 - Val: 1352
+Non-improving iter: 25
+142 - Val: 1352
+Non-improving iter: 26
+143 - Val: 1352
+Non-improving iter: 27
+144 - Val: 1352
+Non-improving iter: 28
+145 - Val: 1352
+Non-improving iter: 29
+146 - Val: 1352
+Non-improving iter: 30
+147 - Val: 1352
+148 - Val: 1350
+149 - Val: 1346
+150 - Val: 1342
+151 - Val: 1338
+152 - Val: 1336
+153 - Val: 1334
+154 - Val: 1330
+155 - Val: 1328
+156 - Val: 1326
+157 - Val: 1324
+158 - Val: 1322
+Non-improving iter: 1
+159 - Val: 1322
+Non-improving iter: 2
+160 - Val: 1322
+Non-improving iter: 3
+161 - Val: 1322
+Non-improving iter: 4
+162 - Val: 1322
+Non-improving iter: 5
+163 - Val: 1322
+Non-improving iter: 6
+164 - Val: 1322
+Non-improving iter: 7
+165 - Val: 1322
+Non-improving iter: 8
+166 - Val: 1322
+Non-improving iter: 9
+167 - Val: 1322
+Non-improving iter: 10
+168 - Val: 1322
+Non-improving iter: 11
+169 - Val: 1322
+Non-improving iter: 12
+170 - Val: 1322
+Non-improving iter: 13
+171 - Val: 1322
+Non-improving iter: 14
+172 - Val: 1322
+Non-improving iter: 15
+173 - Val: 1322
+Non-improving iter: 16
+174 - Val: 1322
+Non-improving iter: 17
+175 - Val: 1322
+Non-improving iter: 18
+176 - Val: 1322
+Non-improving iter: 19
+177 - Val: 1322
+Non-improving iter: 20
+178 - Val: 1322
+Non-improving iter: 21
+179 - Val: 1322
+Non-improving iter: 22
+180 - Val: 1322
+Non-improving iter: 23
+181 - Val: 1322
+Non-improving iter: 24
+182 - Val: 1322
+Non-improving iter: 25
+183 - Val: 1322
+Non-improving iter: 26
+184 - Val: 1322
+Non-improving iter: 27
+185 - Val: 1322
+Non-improving iter: 28
+186 - Val: 1322
+Non-improving iter: 29
+187 - Val: 1322
+Non-improving iter: 30
+188 - Val: 1322
+Non-improving iter: 31
+189 - Val: 1322
+Non-improving iter: 32
+190 - Val: 1322
+Non-improving iter: 33
+191 - Val: 1322
+Non-improving iter: 34
+192 - Val: 1322
+Non-improving iter: 35
+193 - Val: 1322
+Non-improving iter: 36
+194 - Val: 1322
+Non-improving iter: 37
+195 - Val: 1322
+Non-improving iter: 38
+196 - Val: 1322
+Non-improving iter: 39
+197 - Val: 1322
+Non-improving iter: 40
+198 - Val: 1322
+Non-improving iter: 41
+199 - Val: 1322
+Non-improving iter: 42
+200 - Val: 1322
+Non-improving iter: 43
+201 - Val: 1322
+Non-improving iter: 44
+202 - Val: 1322
+Non-improving iter: 45
+203 - Val: 1322
+Non-improving iter: 46
+204 - Val: 1322
+Non-improving iter: 47
+205 - Val: 1322
+Non-improving iter: 48
+206 - Val: 1322
+Non-improving iter: 49
+207 - Val: 1322
+Non-improving iter: 50
+208 - Val: 1322
+Non-improving iter: 51
+209 - Val: 1322
+Non-improving iter: 52
+210 - Val: 1322
+Non-improving iter: 53
+211 - Val: 1322
+Non-improving iter: 54
+212 - Val: 1322
+Non-improving iter: 55
+213 - Val: 1322
+Non-improving iter: 56
+214 - Val: 1322
+Non-improving iter: 57
+215 - Val: 1322
+Non-improving iter: 58
+216 - Val: 1322
+217 - Val: 1320
+218 - Val: 1312
+219 - Val: 1308
+220 - Val: 1306
+221 - Val: 1304
+222 - Val: 1302
+223 - Val: 1298
+224 - Val: 1296
+Non-improving iter: 1
+225 - Val: 1296
+Non-improving iter: 2
+226 - Val: 1296
+Non-improving iter: 3
+227 - Val: 1296
+Non-improving iter: 4
+228 - Val: 1296
+Non-improving iter: 5
+229 - Val: 1296
+Non-improving iter: 6
+230 - Val: 1296
+Non-improving iter: 7
+231 - Val: 1296
+Non-improving iter: 8
+232 - Val: 1296
+Non-improving iter: 9
+233 - Val: 1296
+Non-improving iter: 10
+234 - Val: 1296
+Non-improving iter: 11
+235 - Val: 1296
+Non-improving iter: 12
+236 - Val: 1296
+Non-improving iter: 13
+237 - Val: 1296
+Non-improving iter: 14
+238 - Val: 1296
+Non-improving iter: 15
+239 - Val: 1296
+Non-improving iter: 16
+240 - Val: 1296
+Non-improving iter: 17
+241 - Val: 1296
+Non-improving iter: 18
+242 - Val: 1296
+Non-improving iter: 19
+243 - Val: 1296
+Non-improving iter: 20
+244 - Val: 1296
+Non-improving iter: 21
+245 - Val: 1296
+Non-improving iter: 22
+246 - Val: 1296
+Non-improving iter: 23
+247 - Val: 1296
+Non-improving iter: 24
+248 - Val: 1296
+Non-improving iter: 25
+249 - Val: 1296
+Non-improving iter: 26
+250 - Val: 1296
+Non-improving iter: 27
+251 - Val: 1296
+Non-improving iter: 28
+252 - Val: 1296
+Non-improving iter: 29
+253 - Val: 1296
+Non-improving iter: 30
+254 - Val: 1296
+Non-improving iter: 31
+255 - Val: 1296
+Non-improving iter: 32
+256 - Val: 1296
+Non-improving iter: 33
+257 - Val: 1296
+Non-improving iter: 34
+258 - Val: 1296
+Non-improving iter: 35
+259 - Val: 1296
+Non-improving iter: 36
+260 - Val: 1296
+Non-improving iter: 37
+261 - Val: 1296
+Non-improving iter: 38
+262 - Val: 1296
+Non-improving iter: 39
+263 - Val: 1296
+Non-improving iter: 40
+264 - Val: 1296
+Non-improving iter: 41
+265 - Val: 1296
+Non-improving iter: 42
+266 - Val: 1296
+Non-improving iter: 43
+267 - Val: 1296
+Non-improving iter: 44
+268 - Val: 1296
+Non-improving iter: 45
+269 - Val: 1296
+Non-improving iter: 46
+270 - Val: 1296
+Non-improving iter: 47
+271 - Val: 1296
+Non-improving iter: 48
+272 - Val: 1296
+Non-improving iter: 49
+273 - Val: 1296
+Non-improving iter: 50
+274 - Val: 1296
+Non-improving iter: 51
+275 - Val: 1296
+Non-improving iter: 52
+276 - Val: 1296
+Non-improving iter: 53
+277 - Val: 1296
+Non-improving iter: 54
+278 - Val: 1296
+Non-improving iter: 55
+279 - Val: 1296
+Non-improving iter: 56
+280 - Val: 1296
+Non-improving iter: 57
+281 - Val: 1296
+Non-improving iter: 58
+282 - Val: 1296
+Non-improving iter: 59
+283 - Val: 1296
+Non-improving iter: 60
+284 - Val: 1296
+Non-improving iter: 61
+285 - Val: 1296
+Non-improving iter: 62
+286 - Val: 1296
+Non-improving iter: 63
+287 - Val: 1296
+Non-improving iter: 64
+288 - Val: 1296
+Non-improving iter: 65
+289 - Val: 1296
+Non-improving iter: 66
+290 - Val: 1296
+Non-improving iter: 67
+291 - Val: 1296
+Non-improving iter: 68
+292 - Val: 1296
+Non-improving iter: 69
+293 - Val: 1296
+Non-improving iter: 70
+294 - Val: 1296
+Non-improving iter: 71
+295 - Val: 1296
+Non-improving iter: 72
+296 - Val: 1296
+Non-improving iter: 73
+297 - Val: 1296
+Non-improving iter: 74
+298 - Val: 1296
+Non-improving iter: 75
+299 - Val: 1296
+Non-improving iter: 76
+300 - Val: 1296
+Non-improving iter: 77
+301 - Val: 1296
+Non-improving iter: 78
+302 - Val: 1296
+Non-improving iter: 79
+303 - Val: 1296
+Non-improving iter: 80
+304 - Val: 1296
+Non-improving iter: 81
+305 - Val: 1296
+Non-improving iter: 82
+306 - Val: 1296
+Non-improving iter: 83
+307 - Val: 1296
+Non-improving iter: 84
+308 - Val: 1296
+Non-improving iter: 85
+309 - Val: 1296
+Non-improving iter: 86
+310 - Val: 1296
+Non-improving iter: 87
+311 - Val: 1296
+Non-improving iter: 88
+312 - Val: 1296
+Non-improving iter: 89
+313 - Val: 1296
+Non-improving iter: 90
+314 - Val: 1296
+Non-improving iter: 91
+315 - Val: 1296
+Non-improving iter: 92
+316 - Val: 1296
+Non-improving iter: 93
+317 - Val: 1296
+Non-improving iter: 94
+318 - Val: 1296
+Non-improving iter: 95
+319 - Val: 1296
+Non-improving iter: 96
+320 - Val: 1296
+Non-improving iter: 97
+321 - Val: 1296
+Non-improving iter: 98
+322 - Val: 1296
+Non-improving iter: 99
+323 - Val: 1296
+Non-improving iter: 100
+324 - Val: 1296
+Non-improving iter: 101
+325 - Val: 1296
+Non-improving iter: 102
+326 - Val: 1296
+Non-improving iter: 103
+327 - Val: 1296
+Non-improving iter: 104
+328 - Val: 1296
+Non-improving iter: 105
+329 - Val: 1296
+Non-improving iter: 106
+330 - Val: 1296
+Non-improving iter: 107
+331 - Val: 1296
+Non-improving iter: 108
+332 - Val: 1296
+Non-improving iter: 109
+333 - Val: 1296
+Non-improving iter: 110
+334 - Val: 1296
+Non-improving iter: 111
+335 - Val: 1296
+Non-improving iter: 112
+336 - Val: 1296
+Non-improving iter: 113
+337 - Val: 1296
+Non-improving iter: 114
+338 - Val: 1296
+Non-improving iter: 115
+339 - Val: 1296
+Non-improving iter: 116
+340 - Val: 1296
+Non-improving iter: 117
+341 - Val: 1296
+Non-improving iter: 118
+342 - Val: 1296
+Non-improving iter: 119
+343 - Val: 1296
+Non-improving iter: 120
+FROM: 9442
+TO  : 1296
+Time: 44.8972 s
+1 - Val: 9788
+2 - Val: 9452
+3 - Val: 9150
+4 - Val: 8852
+5 - Val: 8560
+6 - Val: 8306
+7 - Val: 8040
+8 - Val: 7798
+9 - Val: 7584
+10 - Val: 7376
+11 - Val: 7156
+12 - Val: 6932
+13 - Val: 6736
+14 - Val: 6544
+15 - Val: 6360
+16 - Val: 6178
+17 - Val: 6002
+18 - Val: 5840
+19 - Val: 5678
+20 - Val: 5518
+21 - Val: 5358
+22 - Val: 5204
+23 - Val: 5058
+24 - Val: 4922
+25 - Val: 4786
+26 - Val: 4654
+27 - Val: 4536
+28 - Val: 4402
+29 - Val: 4282
+30 - Val: 4152
+31 - Val: 4036
+32 - Val: 3932
+33 - Val: 3830
+34 - Val: 3730
+35 - Val: 3634
+36 - Val: 3546
+37 - Val: 3456
+38 - Val: 3370
+39 - Val: 3292
+40 - Val: 3218
+41 - Val: 3144
+42 - Val: 3074
+43 - Val: 3008
+44 - Val: 2948
+45 - Val: 2890
+46 - Val: 2832
+47 - Val: 2776
+48 - Val: 2722
+49 - Val: 2672
+50 - Val: 2622
+51 - Val: 2574
+52 - Val: 2528
+53 - Val: 2478
+54 - Val: 2432
+55 - Val: 2390
+56 - Val: 2342
+57 - Val: 2298
+58 - Val: 2260
+59 - Val: 2224
+60 - Val: 2190
+61 - Val: 2156
+62 - Val: 2122
+63 - Val: 2090
+64 - Val: 2058
+65 - Val: 2026
+66 - Val: 1996
+67 - Val: 1966
+68 - Val: 1942
+69 - Val: 1908
+70 - Val: 1884
+71 - Val: 1862
+72 - Val: 1840
+73 - Val: 1822
+74 - Val: 1804
+75 - Val: 1786
+76 - Val: 1746
+77 - Val: 1718
+78 - Val: 1700
+79 - Val: 1682
+80 - Val: 1664
+81 - Val: 1648
+82 - Val: 1632
+83 - Val: 1616
+84 - Val: 1600
+85 - Val: 1584
+86 - Val: 1570
+87 - Val: 1556
+88 - Val: 1544
+89 - Val: 1532
+90 - Val: 1520
+91 - Val: 1508
+92 - Val: 1496
+93 - Val: 1486
+94 - Val: 1476
+95 - Val: 1466
+96 - Val: 1456
+97 - Val: 1448
+98 - Val: 1432
+99 - Val: 1424
+100 - Val: 1416
+101 - Val: 1408
+102 - Val: 1400
+103 - Val: 1394
+104 - Val: 1388
+105 - Val: 1382
+106 - Val: 1376
+107 - Val: 1370
+108 - Val: 1366
+109 - Val: 1364
+110 - Val: 1362
+Non-improving iter: 1
+111 - Val: 1362
+Non-improving iter: 2
+112 - Val: 1362
+113 - Val: 1354
+114 - Val: 1330
+Non-improving iter: 1
+115 - Val: 1330
+Non-improving iter: 2
+116 - Val: 1330
+Non-improving iter: 3
+117 - Val: 1330
+Non-improving iter: 4
+118 - Val: 1330
+Non-improving iter: 5
+119 - Val: 1330
+120 - Val: 1328
+Non-improving iter: 1
+121 - Val: 1328
+Non-improving iter: 2
+122 - Val: 1328
+Non-improving iter: 3
+123 - Val: 1328
+Non-improving iter: 4
+124 - Val: 1328
+Non-improving iter: 5
+125 - Val: 1328
+Non-improving iter: 6
+126 - Val: 1328
+Non-improving iter: 7
+127 - Val: 1328
+128 - Val: 1326
+Non-improving iter: 1
+129 - Val: 1326
+Non-improving iter: 2
+130 - Val: 1326
+Non-improving iter: 3
+131 - Val: 1326
+132 - Val: 1324
+133 - Val: 1322
+134 - Val: 1320
+Non-improving iter: 1
+135 - Val: 1320
+Non-improving iter: 2
+136 - Val: 1320
+Non-improving iter: 3
+137 - Val: 1320
+Non-improving iter: 4
+138 - Val: 1320
+Non-improving iter: 5
+139 - Val: 1320
+Non-improving iter: 6
+140 - Val: 1320
+Non-improving iter: 7
+141 - Val: 1320
+142 - Val: 1318
+143 - Val: 1314
+144 - Val: 1308
+Non-improving iter: 1
+145 - Val: 1308
+Non-improving iter: 2
+146 - Val: 1308
+Non-improving iter: 3
+147 - Val: 1308
+Non-improving iter: 4
+148 - Val: 1308
+Non-improving iter: 5
+149 - Val: 1308
+Non-improving iter: 6
+150 - Val: 1308
+Non-improving iter: 7
+151 - Val: 1308
+Non-improving iter: 8
+152 - Val: 1308
+Non-improving iter: 9
+153 - Val: 1308
+Non-improving iter: 10
+154 - Val: 1308
+Non-improving iter: 11
+155 - Val: 1308
+Non-improving iter: 12
+156 - Val: 1308
+Non-improving iter: 13
+157 - Val: 1308
+158 - Val: 1306
+159 - Val: 1302
+160 - Val: 1300
+161 - Val: 1298
+Non-improving iter: 1
+162 - Val: 1298
+Non-improving iter: 2
+163 - Val: 1298
+Non-improving iter: 3
+164 - Val: 1298
+Non-improving iter: 4
+165 - Val: 1298
+Non-improving iter: 5
+166 - Val: 1298
+Non-improving iter: 6
+167 - Val: 1298
+Non-improving iter: 7
+168 - Val: 1298
+Non-improving iter: 8
+169 - Val: 1298
+Non-improving iter: 9
+170 - Val: 1298
+Non-improving iter: 10
+171 - Val: 1298
+Non-improving iter: 11
+172 - Val: 1298
+Non-improving iter: 12
+173 - Val: 1298
+Non-improving iter: 13
+174 - Val: 1298
+Non-improving iter: 14
+175 - Val: 1298
+Non-improving iter: 15
+176 - Val: 1298
+Non-improving iter: 16
+177 - Val: 1298
+Non-improving iter: 17
+178 - Val: 1298
+Non-improving iter: 18
+179 - Val: 1298
+Non-improving iter: 19
+180 - Val: 1298
+Non-improving iter: 20
+181 - Val: 1298
+Non-improving iter: 21
+182 - Val: 1298
+Non-improving iter: 22
+183 - Val: 1298
+Non-improving iter: 23
+184 - Val: 1298
+Non-improving iter: 24
+185 - Val: 1298
+Non-improving iter: 25
+186 - Val: 1298
+Non-improving iter: 26
+187 - Val: 1298
+Non-improving iter: 27
+188 - Val: 1298
+Non-improving iter: 28
+189 - Val: 1298
+Non-improving iter: 29
+190 - Val: 1298
+Non-improving iter: 30
+191 - Val: 1298
+Non-improving iter: 31
+192 - Val: 1298
+Non-improving iter: 32
+193 - Val: 1298
+Non-improving iter: 33
+194 - Val: 1298
+Non-improving iter: 34
+195 - Val: 1298
+Non-improving iter: 35
+196 - Val: 1298
+Non-improving iter: 36
+197 - Val: 1298
+Non-improving iter: 37
+198 - Val: 1298
+Non-improving iter: 38
+199 - Val: 1298
+Non-improving iter: 39
+200 - Val: 1298
+Non-improving iter: 40
+201 - Val: 1298
+Non-improving iter: 41
+202 - Val: 1298
+Non-improving iter: 42
+203 - Val: 1298
+Non-improving iter: 43
+204 - Val: 1298
+Non-improving iter: 44
+205 - Val: 1298
+Non-improving iter: 45
+206 - Val: 1298
+Non-improving iter: 46
+207 - Val: 1298
+Non-improving iter: 47
+208 - Val: 1298
+Non-improving iter: 48
+209 - Val: 1298
+Non-improving iter: 49
+210 - Val: 1298
+Non-improving iter: 50
+211 - Val: 1298
+Non-improving iter: 51
+212 - Val: 1298
+Non-improving iter: 52
+213 - Val: 1298
+Non-improving iter: 53
+214 - Val: 1298
+Non-improving iter: 54
+215 - Val: 1298
+Non-improving iter: 55
+216 - Val: 1298
+Non-improving iter: 56
+217 - Val: 1298
+Non-improving iter: 57
+218 - Val: 1298
+Non-improving iter: 58
+219 - Val: 1298
+Non-improving iter: 59
+220 - Val: 1298
+Non-improving iter: 60
+221 - Val: 1298
+Non-improving iter: 61
+222 - Val: 1298
+Non-improving iter: 62
+223 - Val: 1298
+Non-improving iter: 63
+224 - Val: 1298
+Non-improving iter: 64
+225 - Val: 1298
+Non-improving iter: 65
+226 - Val: 1298
+Non-improving iter: 66
+227 - Val: 1298
+Non-improving iter: 67
+228 - Val: 1298
+Non-improving iter: 68
+229 - Val: 1298
+Non-improving iter: 69
+230 - Val: 1298
+Non-improving iter: 70
+231 - Val: 1298
+Non-improving iter: 71
+232 - Val: 1298
+Non-improving iter: 72
+233 - Val: 1298
+Non-improving iter: 73
+234 - Val: 1298
+Non-improving iter: 74
+235 - Val: 1298
+Non-improving iter: 75
+236 - Val: 1298
+Non-improving iter: 76
+237 - Val: 1298
+Non-improving iter: 77
+238 - Val: 1298
+Non-improving iter: 78
+239 - Val: 1298
+Non-improving iter: 79
+240 - Val: 1298
+Non-improving iter: 80
+241 - Val: 1298
+Non-improving iter: 81
+242 - Val: 1298
+Non-improving iter: 82
+243 - Val: 1298
+Non-improving iter: 83
+244 - Val: 1298
+Non-improving iter: 84
+245 - Val: 1298
+Non-improving iter: 85
+246 - Val: 1298
+Non-improving iter: 86
+247 - Val: 1298
+Non-improving iter: 87
+248 - Val: 1298
+Non-improving iter: 88
+249 - Val: 1298
+Non-improving iter: 89
+250 - Val: 1298
+Non-improving iter: 90
+251 - Val: 1298
+Non-improving iter: 91
+252 - Val: 1298
+Non-improving iter: 92
+253 - Val: 1298
+Non-improving iter: 93
+254 - Val: 1298
+Non-improving iter: 94
+255 - Val: 1298
+Non-improving iter: 95
+256 - Val: 1298
+Non-improving iter: 96
+257 - Val: 1298
+Non-improving iter: 97
+258 - Val: 1298
+Non-improving iter: 98
+259 - Val: 1298
+Non-improving iter: 99
+260 - Val: 1298
+Non-improving iter: 100
+261 - Val: 1298
+Non-improving iter: 101
+262 - Val: 1298
+Non-improving iter: 102
+263 - Val: 1298
+Non-improving iter: 103
+264 - Val: 1298
+Non-improving iter: 104
+265 - Val: 1298
+Non-improving iter: 105
+266 - Val: 1298
+Non-improving iter: 106
+267 - Val: 1298
+Non-improving iter: 107
+268 - Val: 1298
+Non-improving iter: 108
+269 - Val: 1298
+Non-improving iter: 109
+270 - Val: 1298
+Non-improving iter: 110
+271 - Val: 1298
+Non-improving iter: 111
+272 - Val: 1298
+Non-improving iter: 112
+273 - Val: 1298
+Non-improving iter: 113
+274 - Val: 1298
+Non-improving iter: 114
+275 - Val: 1298
+Non-improving iter: 115
+276 - Val: 1298
+Non-improving iter: 116
+277 - Val: 1298
+Non-improving iter: 117
+278 - Val: 1298
+Non-improving iter: 118
+279 - Val: 1298
+Non-improving iter: 119
+280 - Val: 1298
+Non-improving iter: 120
+FROM: 9788
+TO  : 1298
+Time: 35.9148 s
+1 - Val: 10720
+2 - Val: 10396
+3 - Val: 10098
+4 - Val: 9806
+5 - Val: 9538
+6 - Val: 9274
+7 - Val: 9018
+8 - Val: 8766
+9 - Val: 8514
+10 - Val: 8262
+11 - Val: 8024
+12 - Val: 7796
+13 - Val: 7580
+14 - Val: 7360
+15 - Val: 7138
+16 - Val: 6952
+17 - Val: 6740
+18 - Val: 6560
+19 - Val: 6382
+20 - Val: 6216
+21 - Val: 6040
+22 - Val: 5874
+23 - Val: 5696
+24 - Val: 5516
+25 - Val: 5354
+26 - Val: 5212
+27 - Val: 5062
+28 - Val: 4928
+29 - Val: 4798
+30 - Val: 4658
+31 - Val: 4542
+32 - Val: 4412
+33 - Val: 4288
+34 - Val: 4166
+35 - Val: 4052
+36 - Val: 3944
+37 - Val: 3840
+38 - Val: 3736
+39 - Val: 3634
+40 - Val: 3536
+41 - Val: 3446
+42 - Val: 3356
+43 - Val: 3282
+44 - Val: 3214
+45 - Val: 3150
+46 - Val: 3086
+47 - Val: 3022
+48 - Val: 2958
+49 - Val: 2898
+50 - Val: 2838
+51 - Val: 2778
+52 - Val: 2704
+53 - Val: 2652
+54 - Val: 2598
+55 - Val: 2556
+56 - Val: 2508
+57 - Val: 2466
+58 - Val: 2426
+59 - Val: 2390
+60 - Val: 2344
+61 - Val: 2308
+62 - Val: 2272
+63 - Val: 2236
+64 - Val: 2202
+65 - Val: 2170
+66 - Val: 2140
+67 - Val: 2114
+68 - Val: 2088
+69 - Val: 2062
+70 - Val: 2038
+71 - Val: 2004
+72 - Val: 1980
+73 - Val: 1956
+74 - Val: 1934
+75 - Val: 1914
+76 - Val: 1896
+77 - Val: 1878
+78 - Val: 1854
+79 - Val: 1820
+80 - Val: 1802
+81 - Val: 1786
+82 - Val: 1770
+83 - Val: 1756
+84 - Val: 1744
+85 - Val: 1718
+86 - Val: 1706
+87 - Val: 1694
+88 - Val: 1682
+89 - Val: 1670
+90 - Val: 1658
+91 - Val: 1646
+92 - Val: 1628
+93 - Val: 1616
+94 - Val: 1604
+95 - Val: 1588
+96 - Val: 1576
+97 - Val: 1564
+98 - Val: 1554
+99 - Val: 1546
+100 - Val: 1540
+101 - Val: 1532
+102 - Val: 1526
+103 - Val: 1508
+104 - Val: 1498
+105 - Val: 1490
+106 - Val: 1486
+107 - Val: 1482
+108 - Val: 1478
+109 - Val: 1468
+110 - Val: 1464
+111 - Val: 1460
+112 - Val: 1456
+113 - Val: 1454
+114 - Val: 1452
+115 - Val: 1430
+116 - Val: 1422
+117 - Val: 1418
+118 - Val: 1416
+119 - Val: 1412
+120 - Val: 1410
+121 - Val: 1408
+122 - Val: 1406
+123 - Val: 1404
+Non-improving iter: 1
+124 - Val: 1404
+Non-improving iter: 2
+125 - Val: 1404
+Non-improving iter: 3
+126 - Val: 1404
+Non-improving iter: 4
+127 - Val: 1404
+Non-improving iter: 5
+128 - Val: 1404
+Non-improving iter: 6
+129 - Val: 1404
+Non-improving iter: 7
+130 - Val: 1404
+Non-improving iter: 8
+131 - Val: 1404
+132 - Val: 1398
+Non-improving iter: 1
+133 - Val: 1398
+Non-improving iter: 2
+134 - Val: 1398
+Non-improving iter: 3
+135 - Val: 1398
+Non-improving iter: 4
+136 - Val: 1398
+137 - Val: 1396
+138 - Val: 1386
+139 - Val: 1382
+Non-improving iter: 1
+140 - Val: 1382
+Non-improving iter: 2
+141 - Val: 1382
+Non-improving iter: 3
+142 - Val: 1382
+Non-improving iter: 4
+143 - Val: 1382
+144 - Val: 1380
+145 - Val: 1376
+146 - Val: 1374
+Non-improving iter: 1
+147 - Val: 1374
+148 - Val: 1370
+Non-improving iter: 1
+149 - Val: 1370
+Non-improving iter: 2
+150 - Val: 1370
+Non-improving iter: 3
+151 - Val: 1370
+Non-improving iter: 4
+152 - Val: 1370
+153 - Val: 1354
+Non-improving iter: 1
+154 - Val: 1354
+155 - Val: 1344
+156 - Val: 1342
+Non-improving iter: 1
+157 - Val: 1342
+Non-improving iter: 2
+158 - Val: 1342
+Non-improving iter: 3
+159 - Val: 1342
+Non-improving iter: 4
+160 - Val: 1342
+Non-improving iter: 5
+161 - Val: 1342
+Non-improving iter: 6
+162 - Val: 1342
+Non-improving iter: 7
+163 - Val: 1342
+Non-improving iter: 8
+164 - Val: 1342
+Non-improving iter: 9
+165 - Val: 1342
+Non-improving iter: 10
+166 - Val: 1342
+Non-improving iter: 11
+167 - Val: 1342
+Non-improving iter: 12
+168 - Val: 1342
+Non-improving iter: 13
+169 - Val: 1342
+Non-improving iter: 14
+170 - Val: 1342
+171 - Val: 1338
+172 - Val: 1334
+173 - Val: 1330
+174 - Val: 1328
+175 - Val: 1326
+176 - Val: 1322
+177 - Val: 1320
+178 - Val: 1318
+Non-improving iter: 1
+179 - Val: 1318
+Non-improving iter: 2
+180 - Val: 1318
+Non-improving iter: 3
+181 - Val: 1318
+Non-improving iter: 4
+182 - Val: 1318
+Non-improving iter: 5
+183 - Val: 1318
+Non-improving iter: 6
+184 - Val: 1318
+Non-improving iter: 7
+185 - Val: 1318
+Non-improving iter: 8
+186 - Val: 1318
+Non-improving iter: 9
+187 - Val: 1318
+Non-improving iter: 10
+188 - Val: 1318
+Non-improving iter: 11
+189 - Val: 1318
+Non-improving iter: 12
+190 - Val: 1318
+Non-improving iter: 13
+191 - Val: 1318
+Non-improving iter: 14
+192 - Val: 1318
+Non-improving iter: 15
+193 - Val: 1318
+Non-improving iter: 16
+194 - Val: 1318
+Non-improving iter: 17
+195 - Val: 1318
+Non-improving iter: 18
+196 - Val: 1318
+Non-improving iter: 19
+197 - Val: 1318
+Non-improving iter: 20
+198 - Val: 1318
+Non-improving iter: 21
+199 - Val: 1318
+Non-improving iter: 22
+200 - Val: 1318
+Non-improving iter: 23
+201 - Val: 1318
+Non-improving iter: 24
+202 - Val: 1318
+Non-improving iter: 25
+203 - Val: 1318
+Non-improving iter: 26
+204 - Val: 1318
+Non-improving iter: 27
+205 - Val: 1318
+Non-improving iter: 28
+206 - Val: 1318
+Non-improving iter: 29
+207 - Val: 1318
+Non-improving iter: 30
+208 - Val: 1318
+Non-improving iter: 31
+209 - Val: 1318
+Non-improving iter: 32
+210 - Val: 1318
+Non-improving iter: 33
+211 - Val: 1318
+Non-improving iter: 34
+212 - Val: 1318
+Non-improving iter: 35
+213 - Val: 1318
+Non-improving iter: 36
+214 - Val: 1318
+Non-improving iter: 37
+215 - Val: 1318
+Non-improving iter: 38
+216 - Val: 1318
+Non-improving iter: 39
+217 - Val: 1318
+Non-improving iter: 40
+218 - Val: 1318
+Non-improving iter: 41
+219 - Val: 1318
+Non-improving iter: 42
+220 - Val: 1318
+Non-improving iter: 43
+221 - Val: 1318
+Non-improving iter: 44
+222 - Val: 1318
+Non-improving iter: 45
+223 - Val: 1318
+Non-improving iter: 46
+224 - Val: 1318
+Non-improving iter: 47
+225 - Val: 1318
+Non-improving iter: 48
+226 - Val: 1318
+Non-improving iter: 49
+227 - Val: 1318
+Non-improving iter: 50
+228 - Val: 1318
+Non-improving iter: 51
+229 - Val: 1318
+Non-improving iter: 52
+230 - Val: 1318
+Non-improving iter: 53
+231 - Val: 1318
+Non-improving iter: 54
+232 - Val: 1318
+Non-improving iter: 55
+233 - Val: 1318
+Non-improving iter: 56
+234 - Val: 1318
+Non-improving iter: 57
+235 - Val: 1318
+Non-improving iter: 58
+236 - Val: 1318
+Non-improving iter: 59
+237 - Val: 1318
+Non-improving iter: 60
+238 - Val: 1318
+Non-improving iter: 61
+239 - Val: 1318
+Non-improving iter: 62
+240 - Val: 1318
+Non-improving iter: 63
+241 - Val: 1318
+Non-improving iter: 64
+242 - Val: 1318
+Non-improving iter: 65
+243 - Val: 1318
+Non-improving iter: 66
+244 - Val: 1318
+Non-improving iter: 67
+245 - Val: 1318
+Non-improving iter: 68
+246 - Val: 1318
+Non-improving iter: 69
+247 - Val: 1318
+Non-improving iter: 70
+248 - Val: 1318
+Non-improving iter: 71
+249 - Val: 1318
+Non-improving iter: 72
+250 - Val: 1318
+Non-improving iter: 73
+251 - Val: 1318
+Non-improving iter: 74
+252 - Val: 1318
+Non-improving iter: 75
+253 - Val: 1318
+Non-improving iter: 76
+254 - Val: 1318
+Non-improving iter: 77
+255 - Val: 1318
+Non-improving iter: 78
+256 - Val: 1318
+Non-improving iter: 79
+257 - Val: 1318
+Non-improving iter: 80
+258 - Val: 1318
+Non-improving iter: 81
+259 - Val: 1318
+Non-improving iter: 82
+260 - Val: 1318
+Non-improving iter: 83
+261 - Val: 1318
+Non-improving iter: 84
+262 - Val: 1318
+Non-improving iter: 85
+263 - Val: 1318
+Non-improving iter: 86
+264 - Val: 1318
+Non-improving iter: 87
+265 - Val: 1318
+Non-improving iter: 88
+266 - Val: 1318
+Non-improving iter: 89
+267 - Val: 1318
+Non-improving iter: 90
+268 - Val: 1318
+Non-improving iter: 91
+269 - Val: 1318
+Non-improving iter: 92
+270 - Val: 1318
+Non-improving iter: 93
+271 - Val: 1318
+Non-improving iter: 94
+272 - Val: 1318
+Non-improving iter: 95
+273 - Val: 1318
+Non-improving iter: 96
+274 - Val: 1318
+Non-improving iter: 97
+275 - Val: 1318
+Non-improving iter: 98
+276 - Val: 1318
+Non-improving iter: 99
+277 - Val: 1318
+Non-improving iter: 100
+278 - Val: 1318
+Non-improving iter: 101
+279 - Val: 1318
+Non-improving iter: 102
+280 - Val: 1318
+Non-improving iter: 103
+281 - Val: 1318
+Non-improving iter: 104
+282 - Val: 1318
+Non-improving iter: 105
+283 - Val: 1318
+Non-improving iter: 106
+284 - Val: 1318
+Non-improving iter: 107
+285 - Val: 1318
+Non-improving iter: 108
+286 - Val: 1318
+Non-improving iter: 109
+287 - Val: 1318
+Non-improving iter: 110
+288 - Val: 1318
+Non-improving iter: 111
+289 - Val: 1318
+Non-improving iter: 112
+290 - Val: 1318
+Non-improving iter: 113
+291 - Val: 1318
+Non-improving iter: 114
+292 - Val: 1318
+Non-improving iter: 115
+293 - Val: 1318
+Non-improving iter: 116
+294 - Val: 1318
+Non-improving iter: 117
+295 - Val: 1318
+Non-improving iter: 118
+296 - Val: 1318
+Non-improving iter: 119
+297 - Val: 1318
+Non-improving iter: 120
+FROM: 10720
+TO  : 1318
+Time: 38.46 s
+1 - Val: 9660
+2 - Val: 9356
+3 - Val: 9078
+4 - Val: 8812
+5 - Val: 8552
+6 - Val: 8304
+7 - Val: 8072
+8 - Val: 7866
+9 - Val: 7668
+10 - Val: 7472
+11 - Val: 7278
+12 - Val: 7094
+13 - Val: 6908
+14 - Val: 6736
+15 - Val: 6558
+16 - Val: 6376
+17 - Val: 6192
+18 - Val: 6022
+19 - Val: 5860
+20 - Val: 5706
+21 - Val: 5550
+22 - Val: 5392
+23 - Val: 5250
+24 - Val: 5102
+25 - Val: 4964
+26 - Val: 4822
+27 - Val: 4696
+28 - Val: 4568
+29 - Val: 4432
+30 - Val: 4316
+31 - Val: 4198
+32 - Val: 4090
+33 - Val: 3974
+34 - Val: 3864
+35 - Val: 3756
+36 - Val: 3652
+37 - Val: 3562
+38 - Val: 3464
+39 - Val: 3390
+40 - Val: 3324
+41 - Val: 3248
+42 - Val: 3184
+43 - Val: 3130
+44 - Val: 3066
+45 - Val: 3012
+46 - Val: 2952
+47 - Val: 2902
+48 - Val: 2852
+49 - Val: 2804
+50 - Val: 2758
+51 - Val: 2712
+52 - Val: 2664
+53 - Val: 2620
+54 - Val: 2580
+55 - Val: 2538
+56 - Val: 2494
+57 - Val: 2454
+58 - Val: 2414
+59 - Val: 2376
+60 - Val: 2336
+61 - Val: 2300
+62 - Val: 2266
+63 - Val: 2234
+64 - Val: 2202
+65 - Val: 2162
+66 - Val: 2128
+67 - Val: 2098
+68 - Val: 2068
+69 - Val: 2042
+70 - Val: 2014
+71 - Val: 1976
+72 - Val: 1950
+73 - Val: 1926
+74 - Val: 1902
+75 - Val: 1878
+76 - Val: 1848
+77 - Val: 1828
+78 - Val: 1810
+79 - Val: 1792
+80 - Val: 1776
+81 - Val: 1758
+82 - Val: 1742
+83 - Val: 1726
+84 - Val: 1710
+85 - Val: 1696
+86 - Val: 1682
+87 - Val: 1668
+88 - Val: 1654
+89 - Val: 1642
+90 - Val: 1630
+91 - Val: 1618
+92 - Val: 1608
+93 - Val: 1598
+94 - Val: 1588
+95 - Val: 1574
+96 - Val: 1562
+97 - Val: 1552
+98 - Val: 1542
+99 - Val: 1534
+100 - Val: 1526
+101 - Val: 1518
+102 - Val: 1510
+103 - Val: 1498
+104 - Val: 1488
+105 - Val: 1480
+106 - Val: 1474
+107 - Val: 1468
+108 - Val: 1450
+109 - Val: 1444
+110 - Val: 1438
+111 - Val: 1432
+112 - Val: 1424
+113 - Val: 1418
+114 - Val: 1414
+115 - Val: 1410
+116 - Val: 1406
+117 - Val: 1400
+118 - Val: 1396
+119 - Val: 1394
+120 - Val: 1390
+121 - Val: 1388
+122 - Val: 1386
+123 - Val: 1384
+Non-improving iter: 1
+124 - Val: 1384
+125 - Val: 1372
+126 - Val: 1358
+127 - Val: 1346
+Non-improving iter: 1
+128 - Val: 1346
+Non-improving iter: 2
+129 - Val: 1346
+Non-improving iter: 3
+130 - Val: 1346
+Non-improving iter: 4
+131 - Val: 1346
+Non-improving iter: 5
+132 - Val: 1346
+Non-improving iter: 6
+133 - Val: 1346
+Non-improving iter: 7
+134 - Val: 1346
+Non-improving iter: 8
+135 - Val: 1346
+Non-improving iter: 9
+136 - Val: 1346
+Non-improving iter: 10
+137 - Val: 1346
+Non-improving iter: 11
+138 - Val: 1346
+Non-improving iter: 12
+139 - Val: 1346
+Non-improving iter: 13
+140 - Val: 1346
+Non-improving iter: 14
+141 - Val: 1346
+Non-improving iter: 15
+142 - Val: 1346
+Non-improving iter: 16
+143 - Val: 1346
+Non-improving iter: 17
+144 - Val: 1346
+Non-improving iter: 18
+145 - Val: 1346
+Non-improving iter: 19
+146 - Val: 1346
+Non-improving iter: 20
+147 - Val: 1346
+Non-improving iter: 21
+148 - Val: 1346
+Non-improving iter: 22
+149 - Val: 1346
+Non-improving iter: 23
+150 - Val: 1346
+Non-improving iter: 24
+151 - Val: 1346
+Non-improving iter: 25
+152 - Val: 1346
+Non-improving iter: 26
+153 - Val: 1346
+Non-improving iter: 27
+154 - Val: 1346
+Non-improving iter: 28
+155 - Val: 1346
+Non-improving iter: 29
+156 - Val: 1346
+Non-improving iter: 30
+157 - Val: 1346
+Non-improving iter: 31
+158 - Val: 1346
+Non-improving iter: 32
+159 - Val: 1346
+Non-improving iter: 33
+160 - Val: 1346
+Non-improving iter: 34
+161 - Val: 1346
+Non-improving iter: 35
+162 - Val: 1346
+Non-improving iter: 36
+163 - Val: 1346
+Non-improving iter: 37
+164 - Val: 1346
+Non-improving iter: 38
+165 - Val: 1346
+Non-improving iter: 39
+166 - Val: 1346
+Non-improving iter: 40
+167 - Val: 1346
+Non-improving iter: 41
+168 - Val: 1346
+Non-improving iter: 42
+169 - Val: 1346
+Non-improving iter: 43
+170 - Val: 1346
+Non-improving iter: 44
+171 - Val: 1346
+Non-improving iter: 45
+172 - Val: 1346
+Non-improving iter: 46
+173 - Val: 1346
+Non-improving iter: 47
+174 - Val: 1346
+Non-improving iter: 48
+175 - Val: 1346
+Non-improving iter: 49
+176 - Val: 1346
+Non-improving iter: 50
+177 - Val: 1346
+Non-improving iter: 51
+178 - Val: 1346
+Non-improving iter: 52
+179 - Val: 1346
+Non-improving iter: 53
+180 - Val: 1346
+Non-improving iter: 54
+181 - Val: 1346
+Non-improving iter: 55
+182 - Val: 1346
+Non-improving iter: 56
+183 - Val: 1346
+Non-improving iter: 57
+184 - Val: 1346
+Non-improving iter: 58
+185 - Val: 1346
+Non-improving iter: 59
+186 - Val: 1346
+Non-improving iter: 60
+187 - Val: 1346
+Non-improving iter: 61
+188 - Val: 1346
+Non-improving iter: 62
+189 - Val: 1346
+Non-improving iter: 63
+190 - Val: 1346
+Non-improving iter: 64
+191 - Val: 1346
+Non-improving iter: 65
+192 - Val: 1346
+Non-improving iter: 66
+193 - Val: 1346
+Non-improving iter: 67
+194 - Val: 1346
+Non-improving iter: 68
+195 - Val: 1346
+Non-improving iter: 69
+196 - Val: 1346
+Non-improving iter: 70
+197 - Val: 1346
+Non-improving iter: 71
+198 - Val: 1346
+Non-improving iter: 72
+199 - Val: 1346
+Non-improving iter: 73
+200 - Val: 1346
+Non-improving iter: 74
+201 - Val: 1346
+Non-improving iter: 75
+202 - Val: 1346
+Non-improving iter: 76
+203 - Val: 1346
+Non-improving iter: 77
+204 - Val: 1346
+Non-improving iter: 78
+205 - Val: 1346
+Non-improving iter: 79
+206 - Val: 1346
+Non-improving iter: 80
+207 - Val: 1346
+Non-improving iter: 81
+208 - Val: 1346
+Non-improving iter: 82
+209 - Val: 1346
+Non-improving iter: 83
+210 - Val: 1346
+Non-improving iter: 84
+211 - Val: 1346
+Non-improving iter: 85
+212 - Val: 1346
+Non-improving iter: 86
+213 - Val: 1346
+Non-improving iter: 87
+214 - Val: 1346
+Non-improving iter: 88
+215 - Val: 1346
+Non-improving iter: 89
+216 - Val: 1346
+Non-improving iter: 90
+217 - Val: 1346
+Non-improving iter: 91
+218 - Val: 1346
+Non-improving iter: 92
+219 - Val: 1346
+Non-improving iter: 93
+220 - Val: 1346
+Non-improving iter: 94
+221 - Val: 1346
+Non-improving iter: 95
+222 - Val: 1346
+Non-improving iter: 96
+223 - Val: 1346
+Non-improving iter: 97
+224 - Val: 1346
+Non-improving iter: 98
+225 - Val: 1346
+Non-improving iter: 99
+226 - Val: 1346
+Non-improving iter: 100
+227 - Val: 1346
+Non-improving iter: 101
+228 - Val: 1346
+Non-improving iter: 102
+229 - Val: 1346
+Non-improving iter: 103
+230 - Val: 1346
+Non-improving iter: 104
+231 - Val: 1346
+Non-improving iter: 105
+232 - Val: 1346
+Non-improving iter: 106
+233 - Val: 1346
+Non-improving iter: 107
+234 - Val: 1346
+Non-improving iter: 108
+235 - Val: 1346
+Non-improving iter: 109
+236 - Val: 1346
+Non-improving iter: 110
+237 - Val: 1346
+Non-improving iter: 111
+238 - Val: 1346
+Non-improving iter: 112
+239 - Val: 1346
+Non-improving iter: 113
+240 - Val: 1346
+Non-improving iter: 114
+241 - Val: 1346
+Non-improving iter: 115
+242 - Val: 1346
+Non-improving iter: 116
+243 - Val: 1346
+Non-improving iter: 117
+244 - Val: 1346
+Non-improving iter: 118
+245 - Val: 1346
+Non-improving iter: 119
+246 - Val: 1346
+Non-improving iter: 120
+FROM: 9660
+TO  : 1346
+Time: 31.7786 s
+1 - Val: 9606
+2 - Val: 9314
+3 - Val: 9024
+4 - Val: 8752
+5 - Val: 8506
+6 - Val: 8270
+7 - Val: 8030
+8 - Val: 7796
+9 - Val: 7578
+10 - Val: 7366
+11 - Val: 7152
+12 - Val: 6958
+13 - Val: 6772
+14 - Val: 6582
+15 - Val: 6400
+16 - Val: 6222
+17 - Val: 6056
+18 - Val: 5908
+19 - Val: 5766
+20 - Val: 5628
+21 - Val: 5476
+22 - Val: 5334
+23 - Val: 5198
+24 - Val: 5064
+25 - Val: 4936
+26 - Val: 4810
+27 - Val: 4690
+28 - Val: 4554
+29 - Val: 4440
+30 - Val: 4318
+31 - Val: 4216
+32 - Val: 4110
+33 - Val: 4008
+34 - Val: 3916
+35 - Val: 3826
+36 - Val: 3736
+37 - Val: 3650
+38 - Val: 3564
+39 - Val: 3482
+40 - Val: 3402
+41 - Val: 3290
+42 - Val: 3212
+43 - Val: 3144
+44 - Val: 3080
+45 - Val: 3008
+46 - Val: 2946
+47 - Val: 2890
+48 - Val: 2838
+49 - Val: 2776
+50 - Val: 2712
+51 - Val: 2662
+52 - Val: 2604
+53 - Val: 2554
+54 - Val: 2508
+55 - Val: 2464
+56 - Val: 2422
+57 - Val: 2380
+58 - Val: 2338
+59 - Val: 2302
+60 - Val: 2256
+61 - Val: 2222
+62 - Val: 2190
+63 - Val: 2160
+64 - Val: 2126
+65 - Val: 2100
+66 - Val: 2076
+67 - Val: 2054
+68 - Val: 2032
+69 - Val: 2012
+70 - Val: 1992
+71 - Val: 1972
+72 - Val: 1936
+73 - Val: 1918
+74 - Val: 1900
+75 - Val: 1882
+76 - Val: 1864
+77 - Val: 1848
+78 - Val: 1830
+79 - Val: 1806
+80 - Val: 1790
+81 - Val: 1776
+82 - Val: 1758
+83 - Val: 1730
+84 - Val: 1716
+85 - Val: 1702
+86 - Val: 1690
+87 - Val: 1676
+88 - Val: 1664
+89 - Val: 1652
+90 - Val: 1640
+91 - Val: 1630
+92 - Val: 1610
+93 - Val: 1600
+94 - Val: 1590
+95 - Val: 1574
+96 - Val: 1566
+97 - Val: 1558
+98 - Val: 1550
+99 - Val: 1540
+100 - Val: 1526
+101 - Val: 1518
+102 - Val: 1510
+103 - Val: 1492
+104 - Val: 1486
+105 - Val: 1480
+106 - Val: 1456
+107 - Val: 1450
+108 - Val: 1444
+109 - Val: 1440
+110 - Val: 1436
+111 - Val: 1432
+112 - Val: 1430
+113 - Val: 1426
+114 - Val: 1424
+Non-improving iter: 1
+115 - Val: 1424
+Non-improving iter: 2
+116 - Val: 1424
+117 - Val: 1412
+118 - Val: 1402
+Non-improving iter: 1
+119 - Val: 1402
+Non-improving iter: 2
+120 - Val: 1402
+Non-improving iter: 3
+121 - Val: 1402
+Non-improving iter: 4
+122 - Val: 1402
+Non-improving iter: 5
+123 - Val: 1402
+Non-improving iter: 6
+124 - Val: 1402
+125 - Val: 1392
+Non-improving iter: 1
+126 - Val: 1392
+Non-improving iter: 2
+127 - Val: 1392
+Non-improving iter: 3
+128 - Val: 1392
+Non-improving iter: 4
+129 - Val: 1392
+Non-improving iter: 5
+130 - Val: 1392
+Non-improving iter: 6
+131 - Val: 1392
+Non-improving iter: 7
+132 - Val: 1392
+Non-improving iter: 8
+133 - Val: 1392
+Non-improving iter: 9
+134 - Val: 1392
+Non-improving iter: 10
+135 - Val: 1392
+Non-improving iter: 11
+136 - Val: 1392
+Non-improving iter: 12
+137 - Val: 1392
+Non-improving iter: 13
+138 - Val: 1392
+139 - Val: 1390
+140 - Val: 1372
+141 - Val: 1370
+142 - Val: 1368
+143 - Val: 1366
+144 - Val: 1364
+145 - Val: 1362
+146 - Val: 1360
+Non-improving iter: 1
+147 - Val: 1360
+Non-improving iter: 2
+148 - Val: 1360
+Non-improving iter: 3
+149 - Val: 1360
+Non-improving iter: 4
+150 - Val: 1360
+Non-improving iter: 5
+151 - Val: 1360
+Non-improving iter: 6
+152 - Val: 1360
+Non-improving iter: 7
+153 - Val: 1360
+Non-improving iter: 8
+154 - Val: 1360
+Non-improving iter: 9
+155 - Val: 1360
+Non-improving iter: 10
+156 - Val: 1360
+Non-improving iter: 11
+157 - Val: 1360
+Non-improving iter: 12
+158 - Val: 1360
+Non-improving iter: 13
+159 - Val: 1360
+Non-improving iter: 14
+160 - Val: 1360
+Non-improving iter: 15
+161 - Val: 1360
+Non-improving iter: 16
+162 - Val: 1360
+Non-improving iter: 17
+163 - Val: 1360
+Non-improving iter: 18
+164 - Val: 1360
+Non-improving iter: 19
+165 - Val: 1360
+Non-improving iter: 20
+166 - Val: 1360
+Non-improving iter: 21
+167 - Val: 1360
+Non-improving iter: 22
+168 - Val: 1360
+Non-improving iter: 23
+169 - Val: 1360
+Non-improving iter: 24
+170 - Val: 1360
+Non-improving iter: 25
+171 - Val: 1360
+Non-improving iter: 26
+172 - Val: 1360
+Non-improving iter: 27
+173 - Val: 1360
+Non-improving iter: 28
+174 - Val: 1360
+Non-improving iter: 29
+175 - Val: 1360
+Non-improving iter: 30
+176 - Val: 1360
+Non-improving iter: 31
+177 - Val: 1360
+Non-improving iter: 32
+178 - Val: 1360
+Non-improving iter: 33
+179 - Val: 1360
+Non-improving iter: 34
+180 - Val: 1360
+Non-improving iter: 35
+181 - Val: 1360
+Non-improving iter: 36
+182 - Val: 1360
+Non-improving iter: 37
+183 - Val: 1360
+Non-improving iter: 38
+184 - Val: 1360
+Non-improving iter: 39
+185 - Val: 1360
+Non-improving iter: 40
+186 - Val: 1360
+Non-improving iter: 41
+187 - Val: 1360
+Non-improving iter: 42
+188 - Val: 1360
+Non-improving iter: 43
+189 - Val: 1360
+Non-improving iter: 44
+190 - Val: 1360
+Non-improving iter: 45
+191 - Val: 1360
+Non-improving iter: 46
+192 - Val: 1360
+Non-improving iter: 47
+193 - Val: 1360
+Non-improving iter: 48
+194 - Val: 1360
+Non-improving iter: 49
+195 - Val: 1360
+Non-improving iter: 50
+196 - Val: 1360
+Non-improving iter: 51
+197 - Val: 1360
+Non-improving iter: 52
+198 - Val: 1360
+Non-improving iter: 53
+199 - Val: 1360
+Non-improving iter: 54
+200 - Val: 1360
+Non-improving iter: 55
+201 - Val: 1360
+Non-improving iter: 56
+202 - Val: 1360
+Non-improving iter: 57
+203 - Val: 1360
+Non-improving iter: 58
+204 - Val: 1360
+Non-improving iter: 59
+205 - Val: 1360
+Non-improving iter: 60
+206 - Val: 1360
+Non-improving iter: 61
+207 - Val: 1360
+Non-improving iter: 62
+208 - Val: 1360
+Non-improving iter: 63
+209 - Val: 1360
+Non-improving iter: 64
+210 - Val: 1360
+Non-improving iter: 65
+211 - Val: 1360
+Non-improving iter: 66
+212 - Val: 1360
+Non-improving iter: 67
+213 - Val: 1360
+Non-improving iter: 68
+214 - Val: 1360
+Non-improving iter: 69
+215 - Val: 1360
+Non-improving iter: 70
+216 - Val: 1360
+Non-improving iter: 71
+217 - Val: 1360
+Non-improving iter: 72
+218 - Val: 1360
+Non-improving iter: 73
+219 - Val: 1360
+Non-improving iter: 74
+220 - Val: 1360
+Non-improving iter: 75
+221 - Val: 1360
+Non-improving iter: 76
+222 - Val: 1360
+Non-improving iter: 77
+223 - Val: 1360
+Non-improving iter: 78
+224 - Val: 1360
+Non-improving iter: 79
+225 - Val: 1360
+Non-improving iter: 80
+226 - Val: 1360
+Non-improving iter: 81
+227 - Val: 1360
+Non-improving iter: 82
+228 - Val: 1360
+Non-improving iter: 83
+229 - Val: 1360
+Non-improving iter: 84
+230 - Val: 1360
+Non-improving iter: 85
+231 - Val: 1360
+Non-improving iter: 86
+232 - Val: 1360
+Non-improving iter: 87
+233 - Val: 1360
+Non-improving iter: 88
+234 - Val: 1360
+Non-improving iter: 89
+235 - Val: 1360
+Non-improving iter: 90
+236 - Val: 1360
+Non-improving iter: 91
+237 - Val: 1360
+Non-improving iter: 92
+238 - Val: 1360
+Non-improving iter: 93
+239 - Val: 1360
+Non-improving iter: 94
+240 - Val: 1360
+Non-improving iter: 95
+241 - Val: 1360
+Non-improving iter: 96
+242 - Val: 1360
+Non-improving iter: 97
+243 - Val: 1360
+Non-improving iter: 98
+244 - Val: 1360
+Non-improving iter: 99
+245 - Val: 1360
+Non-improving iter: 100
+246 - Val: 1360
+Non-improving iter: 101
+247 - Val: 1360
+Non-improving iter: 102
+248 - Val: 1360
+Non-improving iter: 103
+249 - Val: 1360
+Non-improving iter: 104
+250 - Val: 1360
+Non-improving iter: 105
+251 - Val: 1360
+Non-improving iter: 106
+252 - Val: 1360
+Non-improving iter: 107
+253 - Val: 1360
+Non-improving iter: 108
+254 - Val: 1360
+Non-improving iter: 109
+255 - Val: 1360
+Non-improving iter: 110
+256 - Val: 1360
+Non-improving iter: 111
+257 - Val: 1360
+Non-improving iter: 112
+258 - Val: 1360
+Non-improving iter: 113
+259 - Val: 1360
+Non-improving iter: 114
+260 - Val: 1360
+Non-improving iter: 115
+261 - Val: 1360
+Non-improving iter: 116
+262 - Val: 1360
+Non-improving iter: 117
+263 - Val: 1360
+Non-improving iter: 118
+264 - Val: 1360
+Non-improving iter: 119
+265 - Val: 1360
+Non-improving iter: 120
+FROM: 9606
+TO  : 1360
+Time: 34.251 s

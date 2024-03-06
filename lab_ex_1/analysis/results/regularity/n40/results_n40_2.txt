@@ -1,0 +1,11 @@
+N = 40
+Time: 4.14962 s
+Objval: 152
+Time: 4.20246 s
+Objval: 152
+Time: 4.16974 s
+Objval: 152
+Time: 4.18751 s
+Objval: 152
+Time: 4.20306 s
+Objval: 152

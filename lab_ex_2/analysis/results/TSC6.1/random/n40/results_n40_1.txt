@@ -1,0 +1,861 @@
+N = 40
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.168248 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.16771 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.16839 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.167159 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.167407 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.167425 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.166386 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.169221 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.16946 s
+1 - Val: 272
+2 - Val: 264
+3 - Val: 258
+4 - Val: 256
+Non-improving iter: 1
+5 - Val: 256
+Non-improving iter: 2
+6 - Val: 256
+Non-improving iter: 3
+7 - Val: 256
+Non-improving iter: 4
+8 - Val: 256
+Non-improving iter: 5
+9 - Val: 256
+Non-improving iter: 6
+10 - Val: 256
+Non-improving iter: 7
+11 - Val: 256
+Non-improving iter: 8
+12 - Val: 256
+Non-improving iter: 9
+13 - Val: 256
+Non-improving iter: 10
+14 - Val: 256
+Non-improving iter: 11
+15 - Val: 256
+Non-improving iter: 12
+16 - Val: 256
+Non-improving iter: 13
+17 - Val: 256
+Non-improving iter: 14
+18 - Val: 256
+Non-improving iter: 15
+19 - Val: 256
+Non-improving iter: 16
+20 - Val: 256
+Non-improving iter: 17
+21 - Val: 256
+Non-improving iter: 18
+22 - Val: 256
+Non-improving iter: 19
+23 - Val: 256
+Non-improving iter: 20
+24 - Val: 256
+Non-improving iter: 21
+25 - Val: 256
+Non-improving iter: 22
+26 - Val: 256
+Non-improving iter: 23
+27 - Val: 256
+Non-improving iter: 24
+28 - Val: 256
+Non-improving iter: 25
+29 - Val: 256
+Non-improving iter: 26
+30 - Val: 256
+Non-improving iter: 27
+31 - Val: 256
+Non-improving iter: 28
+32 - Val: 256
+Non-improving iter: 29
+33 - Val: 256
+Non-improving iter: 30
+34 - Val: 256
+Non-improving iter: 31
+35 - Val: 256
+Non-improving iter: 32
+36 - Val: 256
+Non-improving iter: 33
+37 - Val: 256
+Non-improving iter: 34
+38 - Val: 256
+Non-improving iter: 35
+39 - Val: 256
+Non-improving iter: 36
+40 - Val: 256
+Non-improving iter: 37
+41 - Val: 256
+Non-improving iter: 38
+42 - Val: 256
+Non-improving iter: 39
+43 - Val: 256
+Non-improving iter: 40
+FROM: 272
+TO  : 256
+Time: 0.167608 s

@@ -1,0 +1,1541 @@
+N = 60
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.12782 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.12083 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.14983 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.11483 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.12019 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.13005 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.1428 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.13013 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.12647 s
+1 - Val: 290
+2 - Val: 262
+3 - Val: 250
+4 - Val: 230
+5 - Val: 228
+Non-improving iter: 1
+6 - Val: 228
+Non-improving iter: 2
+7 - Val: 228
+8 - Val: 226
+Non-improving iter: 1
+9 - Val: 226
+Non-improving iter: 2
+10 - Val: 226
+Non-improving iter: 3
+11 - Val: 226
+Non-improving iter: 4
+12 - Val: 226
+Non-improving iter: 5
+13 - Val: 226
+Non-improving iter: 6
+14 - Val: 226
+Non-improving iter: 7
+15 - Val: 226
+Non-improving iter: 8
+16 - Val: 226
+Non-improving iter: 9
+17 - Val: 226
+18 - Val: 222
+Non-improving iter: 1
+19 - Val: 222
+20 - Val: 220
+Non-improving iter: 1
+21 - Val: 220
+Non-improving iter: 2
+22 - Val: 220
+Non-improving iter: 3
+23 - Val: 220
+Non-improving iter: 4
+24 - Val: 220
+Non-improving iter: 5
+25 - Val: 220
+Non-improving iter: 6
+26 - Val: 220
+Non-improving iter: 7
+27 - Val: 220
+Non-improving iter: 8
+28 - Val: 220
+Non-improving iter: 9
+29 - Val: 220
+Non-improving iter: 10
+30 - Val: 220
+Non-improving iter: 11
+31 - Val: 220
+Non-improving iter: 12
+32 - Val: 220
+Non-improving iter: 13
+33 - Val: 220
+Non-improving iter: 14
+34 - Val: 220
+Non-improving iter: 15
+35 - Val: 220
+Non-improving iter: 16
+36 - Val: 220
+Non-improving iter: 17
+37 - Val: 220
+Non-improving iter: 18
+38 - Val: 220
+Non-improving iter: 19
+39 - Val: 220
+Non-improving iter: 20
+40 - Val: 220
+Non-improving iter: 21
+41 - Val: 220
+Non-improving iter: 22
+42 - Val: 220
+Non-improving iter: 23
+43 - Val: 220
+Non-improving iter: 24
+44 - Val: 220
+Non-improving iter: 25
+45 - Val: 220
+Non-improving iter: 26
+46 - Val: 220
+Non-improving iter: 27
+47 - Val: 220
+Non-improving iter: 28
+48 - Val: 220
+Non-improving iter: 29
+49 - Val: 220
+Non-improving iter: 30
+50 - Val: 220
+Non-improving iter: 31
+51 - Val: 220
+Non-improving iter: 32
+52 - Val: 220
+Non-improving iter: 33
+53 - Val: 220
+Non-improving iter: 34
+54 - Val: 220
+Non-improving iter: 35
+55 - Val: 220
+Non-improving iter: 36
+56 - Val: 220
+Non-improving iter: 37
+57 - Val: 220
+Non-improving iter: 38
+58 - Val: 220
+Non-improving iter: 39
+59 - Val: 220
+Non-improving iter: 40
+60 - Val: 220
+Non-improving iter: 41
+61 - Val: 220
+Non-improving iter: 42
+62 - Val: 220
+Non-improving iter: 43
+63 - Val: 220
+Non-improving iter: 44
+64 - Val: 220
+Non-improving iter: 45
+65 - Val: 220
+Non-improving iter: 46
+66 - Val: 220
+Non-improving iter: 47
+67 - Val: 220
+Non-improving iter: 48
+68 - Val: 220
+Non-improving iter: 49
+69 - Val: 220
+Non-improving iter: 50
+70 - Val: 220
+Non-improving iter: 51
+71 - Val: 220
+Non-improving iter: 52
+72 - Val: 220
+Non-improving iter: 53
+73 - Val: 220
+Non-improving iter: 54
+74 - Val: 220
+Non-improving iter: 55
+75 - Val: 220
+Non-improving iter: 56
+76 - Val: 220
+Non-improving iter: 57
+77 - Val: 220
+Non-improving iter: 58
+78 - Val: 220
+Non-improving iter: 59
+79 - Val: 220
+Non-improving iter: 60
+FROM: 290
+TO  : 220
+Time: 1.10351 s

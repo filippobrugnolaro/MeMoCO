@@ -1,0 +1,471 @@
+N = 40
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.123861 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.10124 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.104722 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.103627 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.104189 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.100843 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.1018 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.102594 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.104741 s
+1 - Val: 192
+2 - Val: 184
+3 - Val: 182
+4 - Val: 178
+5 - Val: 176
+Non-improving iter: 1
+6 - Val: 176
+Non-improving iter: 2
+7 - Val: 176
+Non-improving iter: 3
+8 - Val: 176
+Non-improving iter: 4
+9 - Val: 176
+Non-improving iter: 5
+10 - Val: 176
+Non-improving iter: 6
+11 - Val: 176
+Non-improving iter: 7
+12 - Val: 176
+Non-improving iter: 8
+13 - Val: 176
+Non-improving iter: 9
+14 - Val: 176
+Non-improving iter: 10
+15 - Val: 176
+Non-improving iter: 11
+16 - Val: 176
+Non-improving iter: 12
+17 - Val: 176
+Non-improving iter: 13
+18 - Val: 176
+Non-improving iter: 14
+19 - Val: 176
+Non-improving iter: 15
+20 - Val: 176
+Non-improving iter: 16
+21 - Val: 176
+Non-improving iter: 17
+22 - Val: 176
+Non-improving iter: 18
+23 - Val: 176
+Non-improving iter: 19
+24 - Val: 176
+Non-improving iter: 20
+FROM: 192
+TO  : 176
+Time: 0.104457 s

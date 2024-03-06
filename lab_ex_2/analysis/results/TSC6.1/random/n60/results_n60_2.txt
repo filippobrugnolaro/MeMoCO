@@ -1,0 +1,1511 @@
+N = 60
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.1048 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.10394 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.11827 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.12977 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.12205 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.12253 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.12948 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.11536 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.13121 s
+1 - Val: 562
+2 - Val: 548
+3 - Val: 542
+4 - Val: 534
+5 - Val: 532
+6 - Val: 530
+7 - Val: 522
+Non-improving iter: 1
+8 - Val: 522
+Non-improving iter: 2
+9 - Val: 522
+Non-improving iter: 3
+10 - Val: 522
+Non-improving iter: 4
+11 - Val: 522
+Non-improving iter: 5
+12 - Val: 522
+13 - Val: 520
+Non-improving iter: 1
+14 - Val: 520
+Non-improving iter: 2
+15 - Val: 520
+Non-improving iter: 3
+16 - Val: 520
+Non-improving iter: 4
+17 - Val: 520
+Non-improving iter: 5
+18 - Val: 520
+19 - Val: 510
+Non-improving iter: 1
+20 - Val: 510
+Non-improving iter: 2
+21 - Val: 510
+Non-improving iter: 3
+22 - Val: 510
+Non-improving iter: 4
+23 - Val: 510
+Non-improving iter: 5
+24 - Val: 510
+Non-improving iter: 6
+25 - Val: 510
+Non-improving iter: 7
+26 - Val: 510
+Non-improving iter: 8
+27 - Val: 510
+Non-improving iter: 9
+28 - Val: 510
+Non-improving iter: 10
+29 - Val: 510
+Non-improving iter: 11
+30 - Val: 510
+Non-improving iter: 12
+31 - Val: 510
+Non-improving iter: 13
+32 - Val: 510
+Non-improving iter: 14
+33 - Val: 510
+Non-improving iter: 15
+34 - Val: 510
+Non-improving iter: 16
+35 - Val: 510
+Non-improving iter: 17
+36 - Val: 510
+Non-improving iter: 18
+37 - Val: 510
+Non-improving iter: 19
+38 - Val: 510
+Non-improving iter: 20
+39 - Val: 510
+Non-improving iter: 21
+40 - Val: 510
+Non-improving iter: 22
+41 - Val: 510
+Non-improving iter: 23
+42 - Val: 510
+Non-improving iter: 24
+43 - Val: 510
+Non-improving iter: 25
+44 - Val: 510
+Non-improving iter: 26
+45 - Val: 510
+Non-improving iter: 27
+46 - Val: 510
+Non-improving iter: 28
+47 - Val: 510
+Non-improving iter: 29
+48 - Val: 510
+Non-improving iter: 30
+49 - Val: 510
+Non-improving iter: 31
+50 - Val: 510
+Non-improving iter: 32
+51 - Val: 510
+Non-improving iter: 33
+52 - Val: 510
+Non-improving iter: 34
+53 - Val: 510
+Non-improving iter: 35
+54 - Val: 510
+Non-improving iter: 36
+55 - Val: 510
+Non-improving iter: 37
+56 - Val: 510
+Non-improving iter: 38
+57 - Val: 510
+Non-improving iter: 39
+58 - Val: 510
+Non-improving iter: 40
+59 - Val: 510
+Non-improving iter: 41
+60 - Val: 510
+Non-improving iter: 42
+61 - Val: 510
+Non-improving iter: 43
+62 - Val: 510
+Non-improving iter: 44
+63 - Val: 510
+Non-improving iter: 45
+64 - Val: 510
+Non-improving iter: 46
+65 - Val: 510
+Non-improving iter: 47
+66 - Val: 510
+Non-improving iter: 48
+67 - Val: 510
+Non-improving iter: 49
+68 - Val: 510
+Non-improving iter: 50
+69 - Val: 510
+Non-improving iter: 51
+70 - Val: 510
+Non-improving iter: 52
+71 - Val: 510
+Non-improving iter: 53
+72 - Val: 510
+Non-improving iter: 54
+73 - Val: 510
+Non-improving iter: 55
+74 - Val: 510
+Non-improving iter: 56
+75 - Val: 510
+Non-improving iter: 57
+76 - Val: 510
+Non-improving iter: 58
+77 - Val: 510
+Non-improving iter: 59
+78 - Val: 510
+Non-improving iter: 60
+FROM: 562
+TO  : 510
+Time: 1.12822 s

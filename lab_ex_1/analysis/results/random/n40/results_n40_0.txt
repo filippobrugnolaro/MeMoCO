@@ -1,0 +1,11 @@
+N = 40
+Time: 0.472135 s
+Objval: 264
+Time: 0.491265 s
+Objval: 264
+Time: 0.492825 s
+Objval: 264
+Time: 0.48469 s
+Objval: 264
+Time: 0.465208 s
+Objval: 264

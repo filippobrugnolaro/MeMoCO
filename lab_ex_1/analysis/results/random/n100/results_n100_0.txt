@@ -1,0 +1,7 @@
+N = 100
+Time: 112.628 s
+Objval: 948
+Time: 110.328 s
+Objval: 948
+Time: 114.863 s
+Objval: 948

@@ -1,0 +1,2731 @@
+N = 60
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.90764 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.97998 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.97154 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.93941 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.92719 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.9343 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.94015 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.91794 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.93442 s
+1 - Val: 340
+2 - Val: 322
+3 - Val: 312
+4 - Val: 306
+5 - Val: 300
+6 - Val: 298
+7 - Val: 296
+8 - Val: 294
+9 - Val: 292
+Non-improving iter: 1
+10 - Val: 292
+Non-improving iter: 2
+11 - Val: 292
+12 - Val: 286
+Non-improving iter: 1
+13 - Val: 286
+Non-improving iter: 2
+14 - Val: 286
+Non-improving iter: 3
+15 - Val: 286
+Non-improving iter: 4
+16 - Val: 286
+Non-improving iter: 5
+17 - Val: 286
+Non-improving iter: 6
+18 - Val: 286
+Non-improving iter: 7
+19 - Val: 286
+Non-improving iter: 8
+20 - Val: 286
+Non-improving iter: 9
+21 - Val: 286
+Non-improving iter: 10
+22 - Val: 286
+Non-improving iter: 11
+23 - Val: 286
+Non-improving iter: 12
+24 - Val: 286
+Non-improving iter: 13
+25 - Val: 286
+Non-improving iter: 14
+26 - Val: 286
+Non-improving iter: 15
+27 - Val: 286
+Non-improving iter: 16
+28 - Val: 286
+Non-improving iter: 17
+29 - Val: 286
+Non-improving iter: 18
+30 - Val: 286
+Non-improving iter: 19
+31 - Val: 286
+Non-improving iter: 20
+32 - Val: 286
+Non-improving iter: 21
+33 - Val: 286
+Non-improving iter: 22
+34 - Val: 286
+Non-improving iter: 23
+35 - Val: 286
+Non-improving iter: 24
+36 - Val: 286
+Non-improving iter: 25
+37 - Val: 286
+Non-improving iter: 26
+38 - Val: 286
+Non-improving iter: 27
+39 - Val: 286
+Non-improving iter: 28
+40 - Val: 286
+Non-improving iter: 29
+41 - Val: 286
+Non-improving iter: 30
+42 - Val: 286
+Non-improving iter: 31
+43 - Val: 286
+Non-improving iter: 32
+44 - Val: 286
+Non-improving iter: 33
+45 - Val: 286
+Non-improving iter: 34
+46 - Val: 286
+Non-improving iter: 35
+47 - Val: 286
+48 - Val: 284
+Non-improving iter: 1
+49 - Val: 284
+Non-improving iter: 2
+50 - Val: 284
+Non-improving iter: 3
+51 - Val: 284
+Non-improving iter: 4
+52 - Val: 284
+Non-improving iter: 5
+53 - Val: 284
+Non-improving iter: 6
+54 - Val: 284
+Non-improving iter: 7
+55 - Val: 284
+Non-improving iter: 8
+56 - Val: 284
+Non-improving iter: 9
+57 - Val: 284
+Non-improving iter: 10
+58 - Val: 284
+Non-improving iter: 11
+59 - Val: 284
+Non-improving iter: 12
+60 - Val: 284
+Non-improving iter: 13
+61 - Val: 284
+Non-improving iter: 14
+62 - Val: 284
+Non-improving iter: 15
+63 - Val: 284
+Non-improving iter: 16
+64 - Val: 284
+Non-improving iter: 17
+65 - Val: 284
+Non-improving iter: 18
+66 - Val: 284
+Non-improving iter: 19
+67 - Val: 284
+Non-improving iter: 20
+68 - Val: 284
+Non-improving iter: 21
+69 - Val: 284
+Non-improving iter: 22
+70 - Val: 284
+Non-improving iter: 23
+71 - Val: 284
+Non-improving iter: 24
+72 - Val: 284
+Non-improving iter: 25
+73 - Val: 284
+Non-improving iter: 26
+74 - Val: 284
+Non-improving iter: 27
+75 - Val: 284
+Non-improving iter: 28
+76 - Val: 284
+Non-improving iter: 29
+77 - Val: 284
+Non-improving iter: 30
+78 - Val: 284
+79 - Val: 282
+Non-improving iter: 1
+80 - Val: 282
+Non-improving iter: 2
+81 - Val: 282
+82 - Val: 280
+Non-improving iter: 1
+83 - Val: 280
+Non-improving iter: 2
+84 - Val: 280
+Non-improving iter: 3
+85 - Val: 280
+Non-improving iter: 4
+86 - Val: 280
+Non-improving iter: 5
+87 - Val: 280
+Non-improving iter: 6
+88 - Val: 280
+Non-improving iter: 7
+89 - Val: 280
+Non-improving iter: 8
+90 - Val: 280
+Non-improving iter: 9
+91 - Val: 280
+Non-improving iter: 10
+92 - Val: 280
+Non-improving iter: 11
+93 - Val: 280
+Non-improving iter: 12
+94 - Val: 280
+Non-improving iter: 13
+95 - Val: 280
+Non-improving iter: 14
+96 - Val: 280
+Non-improving iter: 15
+97 - Val: 280
+Non-improving iter: 16
+98 - Val: 280
+Non-improving iter: 17
+99 - Val: 280
+Non-improving iter: 18
+100 - Val: 280
+Non-improving iter: 19
+101 - Val: 280
+Non-improving iter: 20
+102 - Val: 280
+Non-improving iter: 21
+103 - Val: 280
+Non-improving iter: 22
+104 - Val: 280
+Non-improving iter: 23
+105 - Val: 280
+Non-improving iter: 24
+106 - Val: 280
+Non-improving iter: 25
+107 - Val: 280
+Non-improving iter: 26
+108 - Val: 280
+Non-improving iter: 27
+109 - Val: 280
+Non-improving iter: 28
+110 - Val: 280
+Non-improving iter: 29
+111 - Val: 280
+Non-improving iter: 30
+112 - Val: 280
+Non-improving iter: 31
+113 - Val: 280
+Non-improving iter: 32
+114 - Val: 280
+Non-improving iter: 33
+115 - Val: 280
+Non-improving iter: 34
+116 - Val: 280
+Non-improving iter: 35
+117 - Val: 280
+Non-improving iter: 36
+118 - Val: 280
+Non-improving iter: 37
+119 - Val: 280
+Non-improving iter: 38
+120 - Val: 280
+Non-improving iter: 39
+121 - Val: 280
+Non-improving iter: 40
+122 - Val: 280
+Non-improving iter: 41
+123 - Val: 280
+Non-improving iter: 42
+124 - Val: 280
+Non-improving iter: 43
+125 - Val: 280
+Non-improving iter: 44
+126 - Val: 280
+Non-improving iter: 45
+127 - Val: 280
+Non-improving iter: 46
+128 - Val: 280
+Non-improving iter: 47
+129 - Val: 280
+Non-improving iter: 48
+130 - Val: 280
+Non-improving iter: 49
+131 - Val: 280
+Non-improving iter: 50
+132 - Val: 280
+Non-improving iter: 51
+133 - Val: 280
+Non-improving iter: 52
+134 - Val: 280
+Non-improving iter: 53
+135 - Val: 280
+Non-improving iter: 54
+136 - Val: 280
+Non-improving iter: 55
+137 - Val: 280
+Non-improving iter: 56
+138 - Val: 280
+Non-improving iter: 57
+139 - Val: 280
+Non-improving iter: 58
+140 - Val: 280
+Non-improving iter: 59
+141 - Val: 280
+Non-improving iter: 60
+FROM: 340
+TO  : 280
+Time: 1.94709 s

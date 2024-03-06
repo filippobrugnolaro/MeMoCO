@@ -1,0 +1,11 @@
+N = 10
+Time: 0.025376 s
+Objval: 30
+Time: 0.060021 s
+Objval: 30
+Time: 0.054597 s
+Objval: 30
+Time: 0.029261 s
+Objval: 30
+Time: 0.031314 s
+Objval: 30

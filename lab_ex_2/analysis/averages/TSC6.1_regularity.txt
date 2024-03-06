@@ -1,0 +1,48 @@
+N = 40, results_n40_0.txt 
+Average Time: 0.2092988 s
+Average Solution: 182.0
+
+N = 40, results_n40_1.txt 
+Average Time: 0.1746418 s
+Average Solution: 176.0
+
+N = 40, results_n40_2.txt 
+Average Time: 0.17752440000000003 s
+Average Solution: 152.0
+
+N = 60, results_n60_0.txt 
+Average Time: 1.126646 s
+Average Solution: 220.0
+
+N = 60, results_n60_1.txt 
+Average Time: 1.939966 s
+Average Solution: 280.0
+
+N = 60, results_n60_2.txt 
+Average Time: 1.1088020000000003 s
+Average Solution: 332.0
+
+N = 80, results_n80_0.txt 
+Average Time: 4.675715000000001 s
+Average Solution: 428.0
+
+N = 80, results_n80_1.txt 
+Average Time: 3.263841 s
+Average Solution: 376.0
+
+N = 80, results_n80_2.txt 
+Average Time: 3.5253099999999997 s
+Average Solution: 340.0
+
+N = 100, results_n100_0.txt 
+Average Time: 9.800168000000001 s
+Average Solution: 618.0
+
+N = 100, results_n100_1.txt 
+Average Time: 9.226413999999998 s
+Average Solution: 474.0
+
+N = 100, results_n100_2.txt 
+Average Time: 9.114872 s
+Average Solution: 634.0
+

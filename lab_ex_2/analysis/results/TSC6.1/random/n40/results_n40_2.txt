@@ -1,0 +1,1031 @@
+N = 40
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.219368 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.20381 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.202936 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.201939 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.206564 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.203975 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.20196 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.201827 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.206799 s
+1 - Val: 286
+2 - Val: 278
+3 - Val: 272
+4 - Val: 262
+5 - Val: 260
+Non-improving iter: 1
+6 - Val: 260
+Non-improving iter: 2
+7 - Val: 260
+Non-improving iter: 3
+8 - Val: 260
+Non-improving iter: 4
+9 - Val: 260
+Non-improving iter: 5
+10 - Val: 260
+Non-improving iter: 6
+11 - Val: 260
+Non-improving iter: 7
+12 - Val: 260
+13 - Val: 256
+14 - Val: 252
+Non-improving iter: 1
+15 - Val: 252
+Non-improving iter: 2
+16 - Val: 252
+Non-improving iter: 3
+17 - Val: 252
+Non-improving iter: 4
+18 - Val: 252
+Non-improving iter: 5
+19 - Val: 252
+Non-improving iter: 6
+20 - Val: 252
+Non-improving iter: 7
+21 - Val: 252
+Non-improving iter: 8
+22 - Val: 252
+Non-improving iter: 9
+23 - Val: 252
+Non-improving iter: 10
+24 - Val: 252
+Non-improving iter: 11
+25 - Val: 252
+Non-improving iter: 12
+26 - Val: 252
+Non-improving iter: 13
+27 - Val: 252
+Non-improving iter: 14
+28 - Val: 252
+Non-improving iter: 15
+29 - Val: 252
+Non-improving iter: 16
+30 - Val: 252
+Non-improving iter: 17
+31 - Val: 252
+Non-improving iter: 18
+32 - Val: 252
+Non-improving iter: 19
+33 - Val: 252
+Non-improving iter: 20
+34 - Val: 252
+Non-improving iter: 21
+35 - Val: 252
+Non-improving iter: 22
+36 - Val: 252
+Non-improving iter: 23
+37 - Val: 252
+Non-improving iter: 24
+38 - Val: 252
+Non-improving iter: 25
+39 - Val: 252
+Non-improving iter: 26
+40 - Val: 252
+Non-improving iter: 27
+41 - Val: 252
+Non-improving iter: 28
+42 - Val: 252
+Non-improving iter: 29
+43 - Val: 252
+Non-improving iter: 30
+44 - Val: 252
+Non-improving iter: 31
+45 - Val: 252
+Non-improving iter: 32
+46 - Val: 252
+Non-improving iter: 33
+47 - Val: 252
+Non-improving iter: 34
+48 - Val: 252
+Non-improving iter: 35
+49 - Val: 252
+Non-improving iter: 36
+50 - Val: 252
+Non-improving iter: 37
+51 - Val: 252
+Non-improving iter: 38
+52 - Val: 252
+Non-improving iter: 39
+53 - Val: 252
+Non-improving iter: 40
+FROM: 286
+TO  : 252
+Time: 0.201286 s

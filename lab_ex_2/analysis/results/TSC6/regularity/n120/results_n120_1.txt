@@ -1,0 +1,1461 @@
+N = 120
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.7942 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.6851 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.9052 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.749 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.6745 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.7414 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 12.0744 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.7633 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.6484 s
+1 - Val: 1174
+2 - Val: 1144
+3 - Val: 1126
+4 - Val: 1112
+5 - Val: 1102
+6 - Val: 1094
+7 - Val: 1088
+8 - Val: 1082
+9 - Val: 1076
+10 - Val: 1072
+11 - Val: 1070
+12 - Val: 1058
+13 - Val: 1048
+14 - Val: 1042
+15 - Val: 1038
+16 - Val: 1034
+17 - Val: 1032
+18 - Val: 1028
+19 - Val: 1024
+20 - Val: 1022
+21 - Val: 1020
+22 - Val: 1018
+23 - Val: 1016
+24 - Val: 1014
+Non-improving iter: 1
+25 - Val: 1014
+Non-improving iter: 2
+26 - Val: 1014
+Non-improving iter: 3
+27 - Val: 1014
+Non-improving iter: 4
+28 - Val: 1014
+Non-improving iter: 5
+29 - Val: 1014
+Non-improving iter: 6
+30 - Val: 1014
+Non-improving iter: 7
+31 - Val: 1014
+Non-improving iter: 8
+32 - Val: 1014
+Non-improving iter: 9
+33 - Val: 1014
+Non-improving iter: 10
+34 - Val: 1014
+Non-improving iter: 11
+35 - Val: 1014
+Non-improving iter: 12
+36 - Val: 1014
+Non-improving iter: 13
+37 - Val: 1014
+Non-improving iter: 14
+38 - Val: 1014
+Non-improving iter: 15
+39 - Val: 1014
+Non-improving iter: 16
+40 - Val: 1014
+Non-improving iter: 17
+41 - Val: 1014
+Non-improving iter: 18
+42 - Val: 1014
+Non-improving iter: 19
+43 - Val: 1014
+Non-improving iter: 20
+44 - Val: 1014
+Non-improving iter: 21
+45 - Val: 1014
+Non-improving iter: 22
+46 - Val: 1014
+Non-improving iter: 23
+47 - Val: 1014
+Non-improving iter: 24
+48 - Val: 1014
+Non-improving iter: 25
+49 - Val: 1014
+Non-improving iter: 26
+50 - Val: 1014
+Non-improving iter: 27
+51 - Val: 1014
+Non-improving iter: 28
+52 - Val: 1014
+Non-improving iter: 29
+53 - Val: 1014
+Non-improving iter: 30
+54 - Val: 1014
+Non-improving iter: 31
+55 - Val: 1014
+Non-improving iter: 32
+56 - Val: 1014
+Non-improving iter: 33
+57 - Val: 1014
+Non-improving iter: 34
+58 - Val: 1014
+Non-improving iter: 35
+59 - Val: 1014
+Non-improving iter: 36
+60 - Val: 1014
+Non-improving iter: 37
+61 - Val: 1014
+Non-improving iter: 38
+62 - Val: 1014
+Non-improving iter: 39
+63 - Val: 1014
+Non-improving iter: 40
+64 - Val: 1014
+Non-improving iter: 41
+65 - Val: 1014
+Non-improving iter: 42
+66 - Val: 1014
+Non-improving iter: 43
+67 - Val: 1014
+Non-improving iter: 44
+68 - Val: 1014
+Non-improving iter: 45
+69 - Val: 1014
+Non-improving iter: 46
+70 - Val: 1014
+Non-improving iter: 47
+71 - Val: 1014
+Non-improving iter: 48
+72 - Val: 1014
+Non-improving iter: 49
+73 - Val: 1014
+Non-improving iter: 50
+74 - Val: 1014
+Non-improving iter: 51
+75 - Val: 1014
+Non-improving iter: 52
+76 - Val: 1014
+Non-improving iter: 53
+77 - Val: 1014
+Non-improving iter: 54
+78 - Val: 1014
+Non-improving iter: 55
+79 - Val: 1014
+Non-improving iter: 56
+80 - Val: 1014
+Non-improving iter: 57
+81 - Val: 1014
+Non-improving iter: 58
+82 - Val: 1014
+Non-improving iter: 59
+83 - Val: 1014
+Non-improving iter: 60
+FROM: 1174
+TO  : 1014
+Time: 11.7286 s

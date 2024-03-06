@@ -1,0 +1,1941 @@
+N = 80
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.70231 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.64375 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.96877 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.64577 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.6961 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.68474 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.65398 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.67789 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.67922 s
+1 - Val: 844
+2 - Val: 804
+3 - Val: 788
+4 - Val: 730
+5 - Val: 716
+6 - Val: 708
+7 - Val: 694
+8 - Val: 686
+9 - Val: 680
+10 - Val: 678
+11 - Val: 676
+Non-improving iter: 1
+12 - Val: 676
+Non-improving iter: 2
+13 - Val: 676
+Non-improving iter: 3
+14 - Val: 676
+Non-improving iter: 4
+15 - Val: 676
+Non-improving iter: 5
+16 - Val: 676
+Non-improving iter: 6
+17 - Val: 676
+Non-improving iter: 7
+18 - Val: 676
+Non-improving iter: 8
+19 - Val: 676
+Non-improving iter: 9
+20 - Val: 676
+Non-improving iter: 10
+21 - Val: 676
+22 - Val: 672
+Non-improving iter: 1
+23 - Val: 672
+Non-improving iter: 2
+24 - Val: 672
+Non-improving iter: 3
+25 - Val: 672
+Non-improving iter: 4
+26 - Val: 672
+Non-improving iter: 5
+27 - Val: 672
+Non-improving iter: 6
+28 - Val: 672
+Non-improving iter: 7
+29 - Val: 672
+Non-improving iter: 8
+30 - Val: 672
+Non-improving iter: 9
+31 - Val: 672
+Non-improving iter: 10
+32 - Val: 672
+Non-improving iter: 11
+33 - Val: 672
+Non-improving iter: 12
+34 - Val: 672
+Non-improving iter: 13
+35 - Val: 672
+Non-improving iter: 14
+36 - Val: 672
+Non-improving iter: 15
+37 - Val: 672
+Non-improving iter: 16
+38 - Val: 672
+Non-improving iter: 17
+39 - Val: 672
+Non-improving iter: 18
+40 - Val: 672
+Non-improving iter: 19
+41 - Val: 672
+Non-improving iter: 20
+42 - Val: 672
+Non-improving iter: 21
+43 - Val: 672
+Non-improving iter: 22
+44 - Val: 672
+Non-improving iter: 23
+45 - Val: 672
+Non-improving iter: 24
+46 - Val: 672
+Non-improving iter: 25
+47 - Val: 672
+Non-improving iter: 26
+48 - Val: 672
+Non-improving iter: 27
+49 - Val: 672
+Non-improving iter: 28
+50 - Val: 672
+Non-improving iter: 29
+51 - Val: 672
+Non-improving iter: 30
+52 - Val: 672
+Non-improving iter: 31
+53 - Val: 672
+Non-improving iter: 32
+54 - Val: 672
+Non-improving iter: 33
+55 - Val: 672
+Non-improving iter: 34
+56 - Val: 672
+Non-improving iter: 35
+57 - Val: 672
+Non-improving iter: 36
+58 - Val: 672
+Non-improving iter: 37
+59 - Val: 672
+Non-improving iter: 38
+60 - Val: 672
+Non-improving iter: 39
+61 - Val: 672
+Non-improving iter: 40
+62 - Val: 672
+Non-improving iter: 41
+63 - Val: 672
+Non-improving iter: 42
+64 - Val: 672
+Non-improving iter: 43
+65 - Val: 672
+Non-improving iter: 44
+66 - Val: 672
+Non-improving iter: 45
+67 - Val: 672
+Non-improving iter: 46
+68 - Val: 672
+Non-improving iter: 47
+69 - Val: 672
+Non-improving iter: 48
+70 - Val: 672
+Non-improving iter: 49
+71 - Val: 672
+Non-improving iter: 50
+72 - Val: 672
+Non-improving iter: 51
+73 - Val: 672
+Non-improving iter: 52
+74 - Val: 672
+Non-improving iter: 53
+75 - Val: 672
+Non-improving iter: 54
+76 - Val: 672
+Non-improving iter: 55
+77 - Val: 672
+Non-improving iter: 56
+78 - Val: 672
+Non-improving iter: 57
+79 - Val: 672
+Non-improving iter: 58
+80 - Val: 672
+Non-improving iter: 59
+81 - Val: 672
+Non-improving iter: 60
+82 - Val: 672
+Non-improving iter: 61
+83 - Val: 672
+Non-improving iter: 62
+84 - Val: 672
+Non-improving iter: 63
+85 - Val: 672
+Non-improving iter: 64
+86 - Val: 672
+Non-improving iter: 65
+87 - Val: 672
+Non-improving iter: 66
+88 - Val: 672
+Non-improving iter: 67
+89 - Val: 672
+Non-improving iter: 68
+90 - Val: 672
+Non-improving iter: 69
+91 - Val: 672
+Non-improving iter: 70
+92 - Val: 672
+Non-improving iter: 71
+93 - Val: 672
+Non-improving iter: 72
+94 - Val: 672
+Non-improving iter: 73
+95 - Val: 672
+Non-improving iter: 74
+96 - Val: 672
+Non-improving iter: 75
+97 - Val: 672
+Non-improving iter: 76
+98 - Val: 672
+Non-improving iter: 77
+99 - Val: 672
+Non-improving iter: 78
+100 - Val: 672
+Non-improving iter: 79
+101 - Val: 672
+Non-improving iter: 80
+FROM: 844
+TO  : 672
+Time: 3.64136 s
