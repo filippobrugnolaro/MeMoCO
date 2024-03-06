@@ -109,7 +109,7 @@ bool TSPSolver::solve(const TSP& tsp, const TSPSolution& initSol, int tabulength
 
         while (!stop) {
             ++currentGlobalIter;
-            std::cout << currentGlobalIter << " - Val: " << bestValue << std::endl;
+            // std::cout << currentGlobalIter << " - Val: " << bestValue << std::endl;
             double aspiration = bestValue - currValue;
             double bestNeighValue = currValue + findBestNeighbor(tsp, currSol, currentGlobalIter, aspiration, move);
 
