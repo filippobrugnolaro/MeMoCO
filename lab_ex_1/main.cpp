@@ -25,6 +25,9 @@ char errmsg[BUF_SIZE];
 const int NAME_SIZE = 512;
 char name[NAME_SIZE];
 
+/*
+    Setup the LP problem
+*/
 void setupLP(CEnv env, Prob lp, const int N, const std::vector<std::vector<double>>& C) {
     std::vector<int> nameN(N);                         // vector with N ints
     std::iota(std::begin(nameN), std::end(nameN), 0);  // Fill with 0, 1, ..., N-1
@@ -81,16 +84,6 @@ void setupLP(CEnv env, Prob lp, const int N, const std::vector<std::vector<doubl
             map_y[i][j] = current_var_position++;
         }
     }
-
-    ///////////////////////////////////////////////////////////
-    //
-    // now variables are stored in the following order
-    //  x01 x02 ...   x11 x12 ... #     xij     #   y00       y01     ...   y10   	 y11   ...   #      yij      #   ... ...  #
-    // with indexes
-    //  0   1         N-1  N      # i*(N-1)+j-1 # (N-1)*N  (N-1)*N+1        N*N 	N*N+1        # (N-1)*N+i*N+j #  2*N*(N-1) #
-    //  0   1         N-1  N      # i*(N-1)+j-1 # (N-1)*N  (N-1)*N+1        N*N 	N*N+1        #  N*(N+i-1)+j  #  2*N*N-N   #
-    //
-    ///////////////////////////////////////////////////////////
 
     // add constraints [ forall k in N, k != 0, sum(i,k) x_ik - sum(k,j) x_kj = 1, j!=0]
     for (int k = 1; k < N; k++) {
@@ -160,6 +153,9 @@ void setupLP(CEnv env, Prob lp, const int N, const std::vector<std::vector<doubl
     }
 }
 
+/*
+    Read size from file
+*/
 int readSizeFromFile(const char* filename) {
     // open file
     std::ifstream in(filename);
@@ -174,6 +170,9 @@ int readSizeFromFile(const char* filename) {
     return n;
 }
 
+/*
+    Read positions from file
+*/
 void readPos(const char* filename, std::vector<std::vector<double>>& pos) {
     std::ifstream in(filename);
 
@@ -194,6 +193,9 @@ void readPos(const char* filename, std::vector<std::vector<double>>& pos) {
     in.close();
 }
 
+/*
+    Write positions to file
+*/
 void writePosToFile(const int n, std::vector<std::vector<double>>& pos, const char* filename) {
     // create and open
     ofstream posFile(filename);
@@ -209,6 +211,9 @@ void writePosToFile(const int n, std::vector<std::vector<double>>& pos, const ch
     posFile.close();
 }
 
+/*
+    Read cost matrix from file
+*/
 void readCostsFromFile(std::vector<std::vector<double>>& cost, const char* filename) {
     // open file
     std::ifstream in(filename);
@@ -251,6 +256,9 @@ void writeCostsToFile(const int n, std::vector<std::vector<double>>& cost, const
     matrixCostsFile.close();
 }
 
+/*
+    Compute costs of the positions matrix
+*/
 void computeCosts(const int n, const std::vector<std::vector<double>>& pos, std::vector<std::vector<double>>& cost) {
     // compute costs
     cost.resize(n);
@@ -263,7 +271,9 @@ void computeCosts(const int n, const std::vector<std::vector<double>>& pos, std:
     }
 }
 
-// random cost matrix
+/*
+    Generate random positions
+*/
 void generateRandomPos(const int n, std::vector<std::vector<double>>& pos) {
     std::vector<std::vector<double>> allPos;
 
@@ -282,29 +292,31 @@ void generateRandomPos(const int n, std::vector<std::vector<double>>& pos) {
         }
     }
 
+    // initialize generator
     std::random_device rd;
     std::mt19937_64 generator(rd());
     std::shuffle(allPos.begin(), allPos.end(), generator);  // shuffle all pairs
 
+    // save the first N positions
     pos.resize(n);
     for (int i = 0; i < n; i++) {
         pos[i].resize(2);
         pos[i][0] = allPos[i][0];
-        pos[i][1] = allPos[i][1];  // save the firts N positions from all the pairs
+        pos[i][1] = allPos[i][1];
     }
 }
 
 int main(int argc, char const** argv) {
     try {
         /*
-            ./main filename.dat savedCostsFile.dat [ReadCosts] [N] [Random]
+            ./main savedPosFile.dat savedCostsFile.dat [N] [ReadCosts] [Random]
 
             savedPosFile.dat:
             - pos.dat:      argc == 4, argc == 6
             - not used:     argc == 5
 
             savedCostsFile.dat:
-            - costs.dat: argc == 4, argc == 5, argc == 6
+            - savedCosts.dat: argc == 4, argc == 5, argc == 6
 
             N: Number of nodes
 
@@ -347,7 +359,7 @@ int main(int argc, char const** argv) {
         // setup LP
         setupLP(env, lp, N, cost);
         CHECKED_CPX_CALL(CPXsetdblparam, env, CPX_PARAM_TILIM, 2700);
-        
+
         // print problem
         CHECKED_CPX_CALL(CPXwriteprob, env, lp, "test/tsp.lp", NULL);
 

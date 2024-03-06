@@ -33,14 +33,13 @@ int main(int argc, char const* argv[]) {
 
         if (argc < 5) throw std::runtime_error("usage: ./main filename.dat tabulength maxiter init [readPos] [N]");
 
-        // argc >= 4
-
-        // argc == 4
-
         int tabuLength = atoi(argv[2]);
         int maxIter = atoi(argv[3]);
+
+        // these two variables can be modified to improve the solution
         int maxNonImprIter = 4 * tabuLength;  // 4 * (n/4) = n -> maxIter/2
         int timelimit = 420;                  // 7 minutes
+
         TSP tspInstance;
         int init = atoi(argv[4]);
 
@@ -49,12 +48,12 @@ int main(int argc, char const* argv[]) {
         } else if (argc > 6) {
             int N = atoi(argv[6]);
             tspInstance.setN(N);
-            tspInstance.randomCosts(N);
+            tspInstance.generateRandomPos(N);  // it computes related costs
         } else if (argc == 5) {
-            tspInstance.readCostsFromFile(argv[1]);
+            tspInstance.readCostsFromFile(argv[1]);  // it reads costs from file
         }
 
-        TSPSolution initialSolution(tspInstance);
+        TSPSolution initialSolution(tspInstance);  // initialization of the solution
 
         CustomTimer t;  // start timer
 
@@ -65,7 +64,9 @@ int main(int argc, char const* argv[]) {
             tspSolver.initRand(initialSolution);
 
         TSPSolution bestSolution(initialSolution);
-        tspSolver.solve(tspInstance, initialSolution, tabuLength, maxIter, maxNonImprIter, t, timelimit, bestSolution);  /// solve with TSAC
+
+        // solve with TSAC
+        tspSolver.solve(tspInstance, initialSolution, tabuLength, maxIter, maxNonImprIter, t, timelimit, bestSolution);
 
         double micros = t.stopMicro();
 

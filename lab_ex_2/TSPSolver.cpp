@@ -12,21 +12,33 @@
 
 TSPSolver::TSPSolver() {}
 
+/*
+    Initialize tabu list
+*/
 void TSPSolver::initTabuList(int n) {
     for (int i = 0; i < n; ++i)
         tabuList.push_back(-tabuLength - 1);
     // at iterarion 0, no neighbor is tabu --> iteration(= 0) - tabulistInit > tabulength --> tabulistInit < tabuLength + 0
 }
 
+/*
+    Update tabu list with the last iteration
+*/
 void TSPSolver::updateTabuList(int nodeFrom, int nodeTo, int iter) {
     tabuList[nodeFrom] = iter;
     tabuList[nodeTo] = iter;
 }
 
+/*
+    Check if a move is tabu
+*/
 bool TSPSolver::isTabu(int nodeFrom, int nodeTo, int iter) {
     return ((iter - tabuList[nodeFrom] <= tabuLength) && (iter - tabuList[nodeTo] <= tabuLength));
 }
 
+/*
+    Evaluate a solution
+*/
 double TSPSolver::evaluate(const TSPSolution& sol, const TSP& tsp) const {
     double total = 0.0;
     for (int i = 0; i < (int)sol.getSequence().size() - 1; ++i) {
@@ -37,13 +49,17 @@ double TSPSolver::evaluate(const TSPSolution& sol, const TSP& tsp) const {
     return total;
 }
 
+/*
+    Initialize a random solution
+*/
 bool TSPSolver::initRand(TSPSolution& sol) {
+    // initialize generator
     std::random_device rd;
     std::mt19937 generator(rd());
     std::uniform_int_distribution<int> idx_distr(1, sol.getSequence().size() - 2);
 
+    // random swap, but intial and final position are fixed (initial/final node remains 0)
     for (int i = 1; i < (int)sol.getSequence().size(); ++i) {
-        // intial and final position are fixed (initial/final node remains 0)
         int idx1 = idx_distr(generator);
         int idx2 = idx_distr(generator);
         int tmp = sol.getSequence()[idx1];
@@ -90,14 +106,18 @@ bool TSPSolver::initHeuNearestNeighbour(const TSP& tsp, TSPSolution& sol) {
     return true;
 }
 
+/*
+    Solve the TSP problem
+*/
 bool TSPSolver::solve(const TSP& tsp, const TSPSolution& initSol, int tabulength, int maxIter, int maxNonImprIter, CustomTimer& timer, int timeLimit, TSPSolution& bestSol)  /// TS: new param
 {
     try {
         bool stop = false;
+        // these two variables can be modified to improve the solution
         int currentGlobalIter = 0;
         // int currentNonImprIter = 0;
 
-        /// Tabu Search
+        // initialize tabu search
         this->tabuLength = tabulength;
         tabuList.reserve(tsp.getN());
         initTabuList(tsp.getN());
@@ -148,6 +168,9 @@ bool TSPSolver::solve(const TSP& tsp, const TSPSolution& initSol, int tabulength
     return true;
 }
 
+/*
+    Swap two nodes in the sequence with the 2-opt move
+*/
 TSPSolution& TSPSolver::swap(TSPSolution& tspSol, const TSPMove& move) {
     TSPSolution tmpSol(tspSol);
     for (int i = move.getFrom(); i <= move.getTo(); ++i) {
@@ -156,11 +179,9 @@ TSPSolution& TSPSolver::swap(TSPSolution& tspSol, const TSPMove& move) {
     return tspSol;
 }
 
-/* Determine the NON-TABU *move* yielding the best 2-opt neighbor solution
- * Aspiration criteria: 'neighCostVariation' better than 'aspiration' (notice that 'aspiration'
- * has been set such that if 'neighCostVariation' is better than 'aspiration' than we have a
- * new incumbent solution)
- */
+/*
+    Find best neighbour determining the best 2-opt neighbor solution, aspiration criteria is considered
+*/
 double TSPSolver::findBestNeighbor(const TSP& tsp, const TSPSolution& currSol, int currIter, double aspiration, TSPMove& move) {
     double bestCostVariation = tsp.getInfinite();
 
@@ -169,15 +190,19 @@ double TSPSolver::findBestNeighbor(const TSP& tsp, const TSPSolution& currSol, i
         int h = currSol.getSequence()[a - 1];
         int i = currSol.getSequence()[a];
 
+        // incremental loop
         for (int b = a + 1; b < (int)currSol.getSequence().size() - 1; b++) {
             int j = currSol.getSequence()[b];
             int l = currSol.getSequence()[b + 1];
 
             double neighCostVariation = -tsp.getCost()[h][i] - tsp.getCost()[j][l] + tsp.getCost()[h][j] + tsp.getCost()[i][l];
 
+            // check if tabu and not aspiration criteria
             if (isTabu(i, j, currIter) && !(neighCostVariation < aspiration - 0.01)) {
-                continue;  // check if tabu and not aspiration criteria
+                continue;
             }
+
+            // update if better
             if (neighCostVariation < bestCostVariation) {
                 bestCostVariation = neighCostVariation;
                 move.setFrom(a);

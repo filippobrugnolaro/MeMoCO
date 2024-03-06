@@ -4,13 +4,18 @@
 
 instancesGenerator::instancesGenerator() : holes({}), maxSkip(1) {}
 
+/*
+    Generate an instance of the problem by randomly
+    chosing sizes and places for figures
+*/
 void instancesGenerator::generate(int n) {
-    int remainingSize = n;  // 10% of the board
-    int counter_triangles = 0;
+    int remainingSize = n;      // 10% of the board
+    int counter_triangles = 0;  // 2 triangles max
 
     while (remainingSize > 0) {
         int lastSize = holes.size();
 
+        // random number generator initialization
         std::random_device rd;
         std::mt19937_64 generator(rd());
         std::uniform_int_distribution<int> choice_distr(0, 4);
@@ -21,6 +26,7 @@ void instancesGenerator::generate(int n) {
         int xStart = coord_distr(generator);
         int yStart = coord_distr(generator);
 
+        // choose a figure to draw and its sizes
         switch (choice) {
             case 0: {
                 std::uniform_int_distribution<int> length_line_distr(1, n);
@@ -80,6 +86,9 @@ void instancesGenerator::generate(int n) {
     }
 }
 
+/*
+    Write the instance to a file
+*/
 void instancesGenerator::writeInstancesToFile(const char* filename, int n) {
     generate(n);
 
@@ -94,6 +103,9 @@ void instancesGenerator::writeInstancesToFile(const char* filename, int n) {
     posFile.close();
 }
 
+/*
+    Generate a horizontal line of holes
+*/
 void instancesGenerator::generateHorizontalLine(int n, int xStart, int yStart, int length, int skip) {
     int xEnd = xStart + (skip + 1) * length;
     if (xEnd < n) {
@@ -118,6 +130,9 @@ void instancesGenerator::generateHorizontalLine(int n, int xStart, int yStart, i
     }
 }
 
+/*
+    Generate a vertical line of holes
+*/
 void instancesGenerator::generateVerticalLine(int n, int xStart, int yStart, int length, int skip) {
     int yEnd = yStart + (skip + 1) * length;
     if (yEnd < n) {
@@ -142,6 +157,9 @@ void instancesGenerator::generateVerticalLine(int n, int xStart, int yStart, int
     }
 }
 
+/*
+    Generate a square of holes
+*/
 void instancesGenerator::generateSquare(int n, int xStart, int yStart, int length, int skip) {
     int xEnd = xStart + (skip + 1) * length;
     int yEnd = yStart + (skip + 1) * length;
@@ -178,6 +196,9 @@ void instancesGenerator::generateSquare(int n, int xStart, int yStart, int lengt
     }
 }
 
+/*
+    Generate a triangle of holes
+*/
 void instancesGenerator::generateTriangle(int remainingSize, int n, int xStart, int yStart, int height, int width, int skip) {
     int xEnd = xStart + (skip + 1) * width;
     int yEnd = yStart + (skip + 1) * height;
@@ -220,6 +241,9 @@ void instancesGenerator::generateTriangle(int remainingSize, int n, int xStart, 
     }
 }
 
+/*
+    Generate a simple triangle of holes
+*/
 void instancesGenerator::generateTriangleSimple(int remainingSize, int n, int xStart, int yStart, int height, int width) {
     int xEnd = xStart + width;
     int yEnd = yStart + height;
@@ -243,6 +267,9 @@ void instancesGenerator::generateTriangleSimple(int remainingSize, int n, int xS
     }
 }
 
+/*
+    Generate a rectangle of holes
+*/
 void instancesGenerator::generateRectangle(int n, int xStart, int yStart, int width, int height, int skip) {
     int xEnd = xStart + (skip + 1) * width;
     int yEnd = yStart + (skip + 1) * height;

@@ -2,23 +2,38 @@
 
 TSP::TSP() : n(0), cost({}), infinite(1e10) {}
 
+/*
+    Get the number of nodes
+*/
 int TSP::getN() const {
     return this->n;
 }
 
+/*
+    Get the cost matrix
+*/
 std::vector<std::vector<double>> TSP::getCost() const {
     return this->cost;
 }
 
+/*
+    Get the infinite value
+*/
 double TSP::getInfinite() const {
     return this->infinite;
 }
 
+/*
+    Set the number of nodes
+*/
 void TSP::setN(int n) {
     this->n = n;
 }
 
-void TSP::setInfinite() {  // set infinite value
+/*
+    Set the infinite value
+*/
+void TSP::setInfinite() {
     infinite = 0;
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
@@ -28,8 +43,10 @@ void TSP::setInfinite() {  // set infinite value
     infinite *= 2;
 }
 
-void TSP::readCostsFromFile(const char* filename)  // read cost matrix from file
-{
+/*
+    Read costs from file
+*/
+void TSP::readCostsFromFile(const char* filename) {
     std::ifstream in(filename);
 
     // read size
@@ -50,6 +67,9 @@ void TSP::readCostsFromFile(const char* filename)  // read cost matrix from file
     setInfinite();
 }
 
+/*
+    Read positions from file
+*/
 void TSP::readPos(const char* filename)  // read positions from file and compute related costs
 {
     std::ifstream in(filename);
@@ -74,6 +94,9 @@ void TSP::readPos(const char* filename)  // read positions from file and compute
     computeCost(pos);
 }
 
+/*
+    Compute costs from positions
+*/
 void TSP::computeCost(const std::vector<std::vector<double>>& pos)  // compute costs from positions
 {
     cost.resize(n);
@@ -87,8 +110,10 @@ void TSP::computeCost(const std::vector<std::vector<double>>& pos)  // compute c
     setInfinite();
 }
 
-void TSP::randomCosts(const int n)  // random positions generations
-{
+/*
+    Generate random positions
+*/
+void TSP::generateRandomPos(const int n) {
     std::vector<std::vector<double>> allPos;
     std::vector<std::vector<double>> pos;
 
@@ -108,6 +133,7 @@ void TSP::randomCosts(const int n)  // random positions generations
         }
     }
 
+    // Initialize generator
     std::random_device rd;
     std::mt19937 generator(rd());
     std::shuffle(allPos.begin(), allPos.end(), generator);  // shuffle all pairs

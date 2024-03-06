@@ -30,7 +30,7 @@ class TSP {
     void readCostsFromFile(const char* filename);
     void readPos(const char* filename);
     void computeCost(const std::vector<std::vector<double>>& pos);
-    void randomCosts(const int N);
+    void generateRandomPos(const int N);
 };
 
 #endif
